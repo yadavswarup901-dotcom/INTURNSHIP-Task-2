@@ -1,0 +1,516 @@
+Row ID,Order ID,Order Date,Ship Date,Ship Mode,Customer Name,Segment,City,State,Postal Code,Category,Sub-Category,Product Name,Sales (₹),Quantity,Discount,Profit (₹),Order Priority
+1,IN-2023-10000,08-01-2023,2023/01/11,First Class,Ravi Sharma,Consumer,Mumbai,Maharashtra,400001.0,Technology,Machines,Canon Scanner,262955.75,13,0.05,-24984.42,Critical
+2,IN-2023-10001,2023/04/05,2023-04-11,Standard Class,Priya Patel,Consumer,Delhi,Delhi,110001.0,Office Supplies,Art,Sketch Pad A3,3517.43,8,0.0,-175.86,Low
+3,IN-2023-10002,2023-11-18,21/11/2023,First Class,Arjun Singh,Corporate,Bangalore,Karnataka,560001.0,Office Supplies,Binders,Ring Binder,2342.59,11,0.0,903.22,Medium
+4,IN-2022-10003,12/11/2022,13-11-2022,Same Day,Sneha Mehta,Consumer,Chennai,Tamil Nadu,600001.0,Office Supplies,Binders,Ring Binder,1345.19,5,0.0,-153.65,Low
+5,IN-2022-10004,04-02-2022,2022/02/05,Same Day,Kiran Rao,Home Office,Hyderabad,Telangana,500001.0,Furniture,Storage,Document Tray,1542.03,4,0.15,286.04,High
+6,IN-2023-10005,2023/12/31,2024-01-03,First Class,Deepak Joshi,Consumer,Pune,Maharashtra,411001.0,Furniture,Furnishings,Filing Cabinet,10307.57,14,0.1,-498.17,Medium
+7,IN-2022-10006,2022-12-04,09/12/2022,Standard Class,Anjali Gupta,Home Office,Kolkata,West Bengal,700001.0,Technology,Accessories,Keyboard Bluetooth,11189.66,8,0.1,4236.9,Critical
+8,IN-2022-10007,09/05/2022,15-05-2022,Standard Class,Vikram Nair,Home Office,Ahmedabad,Gujarat,380001.0,Office Supplies,Labels,Mailing Labels,665.98,9,0.0,-94.17,Critical
+9,IN-2022-10008,10-02-2022,2022/02/13,First Class,Pooja Verma,Consumer,Jaipur,Rajasthan,302001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,16419.66,8,0.15,-1794.27,Medium
+10,IN-2023-10009,2023/07/01,2023-07-01,Same Day,Rahul Kulkarni,Home Office,Lucknow,Uttar Pradesh,226001.0,Office Supplies,Paper,A4 Paper Ream 500,2513.24,7,0.05,631.54,Medium
+11,IN-2022-10010,2022-01-15,21/01/2022,Standard Class,Meera Iyer,Consumer,Surat,Gujarat,395001.0,Technology,Machines,HP LaserJet Pro,,5,0.15,10605.51,High
+12,IN-2022-10011,20/06/2022,25-06-2022,Standard Class,Suresh Reddy,Consumer,Nagpur,Maharashtra,440001.0,Furniture,Chairs,Gaming Chair,12600.33,13,0.25,-162.41,High
+13,IN-2022-10012,28-01-2022,2022/02/03,Standard Class,Neha Tiwari,Consumer,Indore,Madhya Pradesh,452001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,14805.78,6,0.1,186.53,Medium
+14,IN-2022-10013,2022/10/10,2022-10-16,Standard Class,Amit Kumar,Consumer,Bhopal,Madhya Pradesh,462001.0,Technology,Machines,Canon Scanner,104852.45,10,0.05,36567.88,Low
+15,IN-2023-10014,2023-11-15,18/11/2023,First Class,Sunita Desai,Consumer,Patna,Bihar,800001.0,Office Supplies,Envelopes,Brown Envelopes,738.42,6,0.05,-20.56,Medium
+16,IN-2023-10015,22/01/2023,24-01-2023,First Class,Rajesh Shah,Home Office,Vadodara,Gujarat,390001.0,Furniture,Chairs,Gaming Chair,653.44,1,0.0,-9.29,Medium
+17,IN-2023-10016,07-02-2023,2023/02/13,Standard Class,Kavita Mishra,Consumer,Ludhiana,Punjab,141001.0,Technology,Machines,HP LaserJet Pro,38515.73,2,0.0,125.39,Low
+18,IN-2023-10017,2023/09/02,2023-09-06,Second Class,Arun Pandey,Consumer,Agra,Uttar Pradesh,282001.0,Office Supplies,Fasteners,Stapler Heavy Duty,160.65,4,0.05,-2.7,Critical
+19,IN-2023-10018,2023-02-07,08/02/2023,Same Day,Rohit Yadav,Consumer,Nashik,Maharashtra,422001.0,Technology,Copiers,Xerox WorkCenter,459865.48,9,0.0,-58666.73,Critical
+20,IN-2023-10019,18/04/2023,21-04-2023,First Class,Divya Nair,Corporate,Coimbatore,Tamil Nadu,641001.0,Furniture,Furnishings,Office Cabinet,637.03,1,0.1,197.95,Critical
+21,IN-2022-10020,31-10-2022,2022/11/06,Standard Class,Sanjay Gupta,Home Office,Mumbai,Maharashtra,400001.0,Technology,Machines,Brother Printer,102303.82,12,0.3,13724.03,Medium
+22,IN-2022-10021,2022/02/23,2022-02-24,Same Day,Rekha Verma,Home Office,Delhi,Delhi,110001.0,Technology,Machines,Brother Printer,110340.7,9,0.15,,Critical
+23,IN-2022-10022,2022-04-09,12/04/2022,Second Class,Manoj Tiwari,Home Office,Bangalore,Karnataka,560001.0,Technology,Phones,Motorola G84,125139.47,4,0.1,-18137.92,Low
+24,IN-2023-10023,02/02/2023,02-02-2023,Same Day,Geeta Sharma,Consumer,Chennai,Tamil Nadu,600001.0,Furniture,Tables,Folding Table,12660.17,6,0.3,-674.04,Low
+25,IN-2022-10024,22-01-2022,2022/01/26,Second Class,Vinod Patel,Consumer,Hyderabad,Telangana,500001.0,Office Supplies,Supplies,Sticky Notes Pack,135.49,1,0.1,17.59,High
+26,IN-2023-10025,2023/04/26,2023-04-26,Same Day,,Corporate,Pune,Maharashtra,411001.0,Technology,Machines,Epson Printer,149821.64,8,0.15,18945.01,High
+27,IN-2023-10026,2023-06-02,05/06/2023,Second Class,Prakash Rao,Consumer,Kolkata,West Bengal,700001.0,Office Supplies,Labels,Colour Dot Labels,32.7,1,0.3,3.55,Low
+28,IN-2022-10027,10/06/2022,13-06-2022,First Class,Usha Mehta,Corporate,Ahmedabad,Gujarat,380001.0,Technology,Phones,Samsung Galaxy Tab,358676.87,14,0.3,114473.59,Low
+29,IN-2023-10028,25-10-2023,2023/10/26,Same Day,Sunil Joshi,Consumer,Jaipur,Rajasthan,302001.0,Office Supplies,Paper,Tracing Paper,3163.62,6,0.1,-305.46,High
+30,IN-2023-10029,2023/06/22,2023-06-27,Standard Class,Leela Iyer,Consumer,Lucknow,Uttar Pradesh,226001.0,Furniture,Tables,Conference Table,26582.95,8,0.15,1268.54,Medium
+31,IN-2023-10030,2023-02-04,05/02/2023,Same Day,Ravi Sharma,Consumer,Surat,Gujarat,395001.0,Office Supplies,Labels,Address Labels,572.17,7,0.15,118.71,Medium
+32,IN-2022-10031,09/07/2022,12-07-2022,Second Class,Priya Patel,Home Office,Nagpur,Maharashtra,440001.0,Furniture,Furnishings,Filing Cabinet,1265.87,2,0.15,38.59,High
+33,IN-2022-10032,22-02-2022,2022/02/28,Standard Class,Arjun Singh,Home Office,Indore,Madhya Pradesh,452001.0,Technology,Phones,Motorola G84,310747.04,10,0.05,-24896.03,Critical
+34,IN-2023-10033,2023/10/18,2023-10-18,Same Day,Sneha Mehta,Consumer,Bhopal,Madhya Pradesh,462001.0,Office Supplies,Labels,Address Labels,777.96,13,0.05,182.61,Critical
+35,IN-2022-10034,2022-04-27,03/05/2022,Standard Class,Kiran Rao,Home Office,Patna,Bihar,800001.0,Office Supplies,Envelopes,Padded Envelopes,722.0,8,0.05,-77.14,Medium
+36,IN-2023-10035,24/08/2023,28-08-2023,Second Class,Deepak Joshi,Home Office,Vadodara,Gujarat,390001.0,Office Supplies,Art,Watercolour Set,4460.03,10,0.05,-80.8,Critical
+37,IN-2022-10036,27-03-2022,2022/03/27,Same Day,Anjali Gupta,Home Office,Ludhiana,Punjab,141001.0,Office Supplies,Art,Drawing Kit,1711.04,5,0.05,-23.52,High
+38,IN-2022-10037,2022/12/07,2022-12-10,Second Class,Vikram Nair,Consumer,Agra,Uttar Pradesh,282001.0,Furniture,Chairs,Mesh Task Chair,27586.93,14,0.0,-3877.66,Critical
+39,IN-2023-10038,2023-10-21,24/10/2023,First Class,Pooja Verma,Consumer,Nashik,Maharashtra,422001.0,Office Supplies,Art,Drawing Kit,3255.35,10,0.1,-407.19,Medium
+40,IN-2023-10039,21/11/2023,21-11-2023,Same Day,Rahul Kulkarni,Corporate,Coimbatore,Tamil Nadu,641001.0,Office Supplies,Art,Drawing Kit,269.18,2,0.1,98.82,Critical
+41,IN-2022-10040,12-10-2022,2022/10/14,First Class,Meera Iyer,Corporate,Mumbai,Maharashtra,400001.0,Office Supplies,Envelopes,Brown Envelopes,584.54,5,0.2,121.77,Critical
+42,IN-2023-10041,2023/08/25,2023-08-29,Second Class,Suresh Reddy,Consumer,Delhi,Delhi,110001.0,Office Supplies,Art,Drawing Kit,771.76,2,,19.63,Medium
+43,IN-2023-10042,2023-11-07,13/11/2023,Standard Class,Neha Tiwari,Home Office,Bangalore,Karnataka,560001.0,Furniture,Furnishings,Filing Cabinet,2488.14,5,0.25,-319.6,Low
+44,IN-2022-10043,09/07/2022,10-07-2022,Same Day,Amit Kumar,Consumer,Chennai,Tamil Nadu,600001.0,Office Supplies,Envelopes,Padded Envelopes,328.94,3,0.05,91.13,High
+45,IN-2023-10044,30-12-2023,2023/12/31,Same Day,Sunita Desai,Home Office,Hyderabad,Telangana,500001.0,Office Supplies,Art,Drawing Kit,1930.29,9,0.05,277.73,Critical
+46,IN-2023-10045,2023/07/18,2023-07-20,First Class,Rajesh Shah,Consumer,Pune,Maharashtra,411001.0,Furniture,Furnishings,Office Cabinet,9511.27,9,0.05,3578.52,Critical
+47,IN-2023-10046,2023-07-23,25/07/2023,First Class,Kavita Mishra,Consumer,Kolkata,West Bengal,700001.0,Furniture,Storage,Locker Unit,5269.71,12,0.15,1390.18,Critical
+48,IN-2023-10047,11/08/2023,14-08-2023,Second Class,Arun Pandey,Consumer,Ahmedabad,Gujarat,380001.0,Office Supplies,Supplies,Rubber Band Box,1434.96,10,,61.71,High
+49,IN-2022-10048,13-07-2022,2022/07/15,First Class,Rohit Yadav,Corporate,Jaipur,Rajasthan,302001.0,Office Supplies,Art,Sketch Pad A3,2053.75,7,0.0,139.98,Medium
+50,IN-2022-10049,2022/03/11,2022-03-12,Same Day,Divya Nair,Corporate,Lucknow,Uttar Pradesh,226001.0,Furniture,Storage,Storage Box Set,3893.47,6,,1527.41,Critical
+51,IN-2022-10050,2022-08-08,14/08/2022,Standard Class,Sanjay Gupta,Consumer,Surat,Gujarat,395001.0,Technology,Accessories,Keyboard Bluetooth,10794.15,11,0.05,960.12,Low
+52,IN-2023-10051,23/05/2023,28-05-2023,Standard Class,Rekha Verma,Consumer,Nagpur,Maharashtra,440001.0,Furniture,Storage,Locker Unit,6241.12,9,0.15,-120.9,High
+53,IN-2022-10052,01-08-2022,2022/08/06,Standard Class,Manoj Tiwari,Consumer,Indore,Madhya Pradesh,452001.0,Office Supplies,Art,Sketch Pad A3,1010.63,10,0.3,-127.6,Critical
+54,IN-2023-10053,2023/01/08,2023-01-11,First Class,Geeta Sharma,Home Office,Bhopal,Madhya Pradesh,462001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,15956.12,9,0.1,3712.38,Low
+55,IN-2023-10054,2023-01-08,09/01/2023,Same Day,Vinod Patel,Corporate,Patna,Bihar,800001.0,Technology,Phones,OnePlus Nord,436619.58,12,0.0,29247.83,Critical
+56,IN-2022-10055,25/05/2022,28-05-2022,Second Class,Anita Desai,Consumer,Vadodara,Gujarat,390001.0,Office Supplies,Paper,Coloured Paper Pack,2116.6,12,0.3,830.59,High
+57,IN-2023-10056,26-03-2023,2023/03/27,Same Day,Prakash Rao,Consumer,Ludhiana,Punjab,141001.0,Technology,Copiers,Xerox WorkCenter,973302.28,13,0.2,362447.99,Low
+58,IN-2022-10057,2022/10/09,2022-10-11,First Class,Usha Mehta,Home Office,Agra,Uttar Pradesh,282001.0,Technology,Phones,Samsung Galaxy Tab,128543.13,7,0.15,14680.08,Low
+59,IN-2023-10058,2023-06-02,03/06/2023,Same Day,Sunil Joshi,Consumer,Nashik,Maharashtra,422001.0,Technology,Phones,Samsung Galaxy Tab,21996.98,1,0.05,,High
+60,IN-2022-10059,26/03/2022,29-03-2022,First Class,Leela Iyer,Home Office,Coimbatore,Tamil Nadu,641001.0,Technology,Accessories,Keyboard Bluetooth,6706.25,5,0.15,1786.51,Low
+61,IN-2022-10060,13-03-2022,2022/03/13,Same Day,Ravi Sharma,Consumer,Mumbai,Maharashtra,400001.0,Furniture,Storage,Storage Box Set,1511.72,4,0.15,287.18,High
+62,IN-2023-10061,2023/02/05,2023-02-09,Second Class,Priya Patel,Corporate,Delhi,Delhi,110001.0,Office Supplies,Fasteners,Stapler Heavy Duty,551.76,11,0.2,210.99,Medium
+63,IN-2022-10062,2022-11-02,03/11/2022,Same Day,Arjun Singh,Consumer,,Karnataka,560001.0,Office Supplies,Art,Watercolour Set,5508.56,14,0.0,-413.12,Medium
+64,IN-2022-10063,16/04/2022,16-04-2022,Same Day,,Corporate,Chennai,Tamil Nadu,600001.0,Office Supplies,Envelopes,Brown Envelopes,191.07,2,0.1,53.69,Medium
+65,IN-2022-10064,22-02-2022,2022/02/26,Second Class,Kiran Rao,Corporate,Hyderabad,Telangana,500001.0,Technology,Accessories,Webcam HD,1427.23,1,0.0,146.33,Medium
+66,IN-2022-10065,2022/12/26,2022-12-27,Same Day,Deepak Joshi,Consumer,Pune,Maharashtra,411001.0,Office Supplies,Envelopes,Brown Envelopes,990.28,9,0.1,69.48,Critical
+67,IN-2023-10066,2023-04-11,17/04/2023,Standard Class,Anjali Gupta,Consumer,Kolkata,West Bengal,700001.0,Technology,Machines,Brother Printer,344204.45,13,0.1,-9253.25,Low
+68,IN-2022-10067,14/03/2022,18-03-2022,Second Class,Vikram Nair,Consumer,Ahmedabad,Gujarat,380001.0,Furniture,Chairs,Ergonomic Chair Pro,7722.92,9,0.2,-611.57,Low
+69,IN-2023-10068,17-09-2023,2023/09/22,Standard Class,Pooja Verma,Corporate,Jaipur,Rajasthan,302001.0,Office Supplies,Supplies,Rubber Band Box,3111.99,11,0.0,7.1,Critical
+70,IN-2022-10069,2022/01/07,2022-01-09,First Class,Rahul Kulkarni,Consumer,Lucknow,Uttar Pradesh,226001.0,Furniture,Tables,Executive Desk,19709.71,7,0.15,-2280.65,Critical
+71,IN-2023-10070,2023-04-30,06/05/2023,Standard Class,Meera Iyer,Home Office,Surat,Gujarat,395001.0,Office Supplies,Supplies,Correction Fluid,325.15,2,0.1,-5.41,High
+72,IN-2022-10071,21/08/2022,24-08-2022,Second Class,Suresh Reddy,Consumer,Nagpur,Maharashtra,440001.0,Furniture,Tables,Folding Table,25531.2,12,,2825.88,High
+73,IN-2023-10072,23-11-2023,2023/11/29,Standard Class,Neha Tiwari,Consumer,Indore,Madhya Pradesh,452001.0,Office Supplies,Fasteners,Binder Clips Set,632.07,8,0.1,36.87,Medium
+74,IN-2023-10073,2023/05/18,2023-05-22,Second Class,Amit Kumar,Corporate,Bhopal,Madhya Pradesh,462001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,12890.84,6,0.0,-1211.99,Medium
+75,IN-2022-10074,2022-11-18,21/11/2022,First Class,,Consumer,Patna,Bihar,800001.0,Furniture,Chairs,Recliner Chair,3748.59,3,0.05,1463.11,Medium
+76,IN-2023-10075,16/12/2023,20-12-2023,Second Class,Rajesh Shah,Home Office,Vadodara,Gujarat,390001.0,Technology,Accessories,Wireless Mouse,1211.26,1,0.15,365.16,High
+77,IN-2023-10076,13-07-2023,2023/07/18,Standard Class,Kavita Mishra,Consumer,Ludhiana,Punjab,141001.0,Technology,Phones,iPhone 14,182773.72,10,0.05,23611.75,Critical
+78,IN-2022-10077,2022/01/10,2022-01-13,Second Class,Arun Pandey,Corporate,,Uttar Pradesh,282001.0,Furniture,Storage,Document Tray,9938.48,11,0.05,1755.49,Medium
+79,IN-2023-10078,2023-07-04,09/07/2023,Standard Class,Rohit Yadav,Consumer,Nashik,Maharashtra,422001.0,Technology,Phones,Motorola G84,25744.88,2,0.0,-3823.35,High
+80,IN-2023-10079,11/08/2023,16-08-2023,Standard Class,Divya Nair,Corporate,Coimbatore,Tamil Nadu,641001.0,Furniture,Storage,Document Tray,11697.83,12,0.0,2947.59,Medium
+81,IN-2022-10080,14-06-2022,2022/06/16,First Class,Sanjay Gupta,Consumer,Mumbai,Maharashtra,400001.0,Office Supplies,Fasteners,Paper Clips Box,744.7,8,0.15,215.77,Low
+82,IN-2023-10081,2023/11/22,2023-11-22,Same Day,Rekha Verma,Consumer,Delhi,Delhi,110001.0,Office Supplies,Fasteners,Paper Clips Box,971.82,13,0.15,95.79,Medium
+83,IN-2022-10082,2022-04-14,19/04/2022,Standard Class,Manoj Tiwari,Consumer,Bangalore,Karnataka,560001.0,Office Supplies,Supplies,Correction Fluid,1374.48,9,0.05,195.89,Critical
+84,IN-2023-10083,23/04/2023,28-04-2023,Standard Class,Geeta Sharma,Corporate,Chennai,Tamil Nadu,600001.0,Office Supplies,Envelopes,Brown Envelopes,312.68,3,0.0,89.65,Low
+85,IN-2023-10084,06-06-2023,2023/06/09,Second Class,Vinod Patel,Corporate,Hyderabad,Telangana,500001.0,Technology,Phones,Samsung Galaxy Tab,190161.73,13,0.15,-25017.14,Medium
+86,IN-2022-10085,2022/06/06,2022-06-06,Same Day,Anita Desai,Home Office,Pune,Maharashtra,411001.0,Furniture,Storage,Locker Unit,2192.54,4,0.1,276.83,Low
+87,IN-2022-10086,2022-01-11,17/01/2022,Standard Class,Prakash Rao,Consumer,Kolkata,West Bengal,700001.0,Technology,Machines,Brother Printer,63151.07,3,0.1,-726.9,Critical
+88,IN-2023-10087,15/09/2023,19-09-2023,Second Class,Usha Mehta,Home Office,Ahmedabad,Gujarat,380001.0,Office Supplies,Supplies,Sticky Notes Pack,2886.13,10,0.0,497.65,Medium
+89,IN-2022-10088,20-02-2022,2022/02/22,First Class,Sunil Joshi,Home Office,Jaipur,Rajasthan,302001.0,Technology,Copiers,Xerox WorkCenter,201671.87,8,0.15,55295.54,Medium
+90,IN-2022-10089,2022/01/01,2022-01-04,Second Class,Leela Iyer,Consumer,Lucknow,Uttar Pradesh,226001.0,Technology,Machines,Brother Printer,7592.16,1,0.3,2364.15,High
+91,IN-2023-10090,2023-07-29,02/08/2023,Second Class,Ravi Sharma,Consumer,Surat,Gujarat,395001.0,Furniture,Storage,Locker Unit,7342.74,9,0.0,2080.08,Low
+92,IN-2022-10091,28/06/2022,01-07-2022,First Class,Priya Patel,Corporate,Nagpur,Maharashtra,440001.0,Technology,Accessories,Keyboard Bluetooth,2113.43,2,0.25,365.39,Critical
+93,IN-2023-10092,14-04-2023,2023/04/17,Second Class,Arjun Singh,Consumer,Indore,Madhya Pradesh,452001.0,Office Supplies,Fasteners,Paper Clips Box,428.62,8,0.15,1.15,Critical
+94,IN-2022-10093,2022/05/21,2022-05-24,First Class,Sneha Mehta,Consumer,Bhopal,Madhya Pradesh,462001.0,Technology,Phones,Motorola G84,182180.15,6,0.1,-8844.01,Low
+95,IN-2022-10094,2022-01-18,18/01/2022,Same Day,Kiran Rao,Corporate,Patna,Bihar,800001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,17526.4,14,0.0,1921.54,High
+96,IN-2022-10095,21/09/2022,21-09-2022,Same Day,Deepak Joshi,Corporate,Vadodara,Gujarat,390001.0,Office Supplies,Paper,Coloured Paper Pack,5073.7,12,0.1,1374.7,Low
+97,IN-2022-10096,27-06-2022,2022/06/27,Same Day,Anjali Gupta,Consumer,Ludhiana,Punjab,141001.0,Technology,Accessories,Wireless Mouse,4768.85,3,0.05,-648.74,Critical
+98,IN-2023-10097,2023/08/02,2023-08-04,First Class,Vikram Nair,Corporate,Agra,Uttar Pradesh,282001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,16039.02,7,0.0,-1487.46,Low
+99,IN-2022-10098,2022-06-14,15/06/2022,Same Day,Pooja Verma,Corporate,Nashik,Maharashtra,422001.0,Furniture,Tables,Study Desk,25601.03,8,0.2,7849.81,Critical
+100,IN-2023-10099,02/07/2023,07-07-2023,Standard Class,Rahul Kulkarni,Consumer,Coimbatore,Tamil Nadu,641001.0,Furniture,Tables,Study Desk,17078.31,10,0.0,-2312.53,High
+101,IN-2023-10100,16-06-2023,2023/06/18,First Class,Meera Iyer,Consumer,Mumbai,Maharashtra,400001.0,Technology,Machines,HP LaserJet Pro,50095.05,4,0.2,2488.85,Critical
+102,IN-2023-10101,2023/12/15,2023-12-16,Same Day,Suresh Reddy,Consumer,Delhi,Delhi,110001.0,Technology,Phones,iPhone 14,,5,0.25,18680.04,Low
+103,IN-2022-10102,2022-12-25,30/12/2022,Standard Class,Neha Tiwari,Consumer,Bangalore,Karnataka,560001.0,Technology,Copiers,Xerox WorkCenter,59235.58,2,0.0,8760.87,Low
+104,IN-2022-10103,08/05/2022,11-05-2022,Second Class,Amit Kumar,Consumer,Chennai,Tamil Nadu,600001.0,Technology,Copiers,Ricoh Copier,789150.25,10,0.15,178151.55,Medium
+105,IN-2022-10104,27-01-2022,2022/01/30,Second Class,Sunita Desai,Home Office,Hyderabad,Telangana,500001.0,Office Supplies,Paper,A4 Paper Ream 500,2247.07,5,0.2,-81.95,Medium
+106,IN-2023-10105,2023/12/03,2023-12-09,Standard Class,Rajesh Shah,Consumer,Pune,Maharashtra,411001.0,Office Supplies,Paper,A4 Paper Ream 500,3862.95,9,0.1,1201.22,Critical
+107,IN-2022-10106,2022-10-23,28/10/2022,Standard Class,Kavita Mishra,Consumer,Kolkata,West Bengal,700001.0,Office Supplies,Fasteners,Stapler Heavy Duty,38.21,1,0.1,-0.58,High
+108,IN-2022-10107,16/10/2022,22-10-2022,Standard Class,Arun Pandey,Consumer,Ahmedabad,Gujarat,380001.0,Office Supplies,Supplies,Sticky Notes Pack,952.82,6,0.15,348.02,Critical
+109,IN-2023-10108,26-03-2023,2023/03/31,Standard Class,Rohit Yadav,Consumer,Jaipur,Rajasthan,302001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,20545.46,11,0.3,-1334.02,Medium
+110,IN-2022-10109,2022/08/17,2022-08-20,First Class,Divya Nair,Consumer,Lucknow,Uttar Pradesh,226001.0,Office Supplies,Binders,A4 Binder Pack,3592.23,13,0.05,-52.01,Medium
+111,IN-2023-10110,2023-07-23,28/07/2023,Standard Class,Sanjay Gupta,Corporate,Surat,Gujarat,395001.0,Furniture,Tables,Executive Desk,6078.11,3,0.2,2304.54,Medium
+112,IN-2023-10111,11/04/2023,11-04-2023,Same Day,Rekha Verma,Corporate,Nagpur,Maharashtra,440001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,10537.95,5,0.15,2112.62,Low
+113,IN-2022-10112,27-03-2022,2022/03/30,First Class,Manoj Tiwari,Corporate,Indore,Madhya Pradesh,452001.0,Office Supplies,Binders,A4 Binder Pack,982.98,10,0.15,352.78,Medium
+114,IN-2023-10113,2023/02/06,2023-02-09,Second Class,Geeta Sharma,Consumer,Bhopal,Madhya Pradesh,462001.0,Furniture,Chairs,Recliner Chair,11749.94,8,0.25,1302.1,Critical
+115,IN-2022-10114,2022-12-30,02/01/2023,Second Class,,Home Office,Patna,Bihar,800001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,18039.3,12,0.2,2555.19,High
+116,IN-2023-10115,26/03/2023,26-03-2023,Same Day,Anita Desai,Consumer,Vadodara,Gujarat,390001.0,Office Supplies,Art,Sketch Pad A3,3285.59,9,0.1,278.45,Medium
+117,IN-2022-10116,29-01-2022,2022/02/01,First Class,Prakash Rao,Consumer,Ludhiana,Punjab,141001.0,Technology,Machines,Brother Printer,193294.16,13,0.25,55925.95,Medium
+118,IN-2022-10117,2022/12/06,2022-12-08,First Class,Usha Mehta,Consumer,Agra,Uttar Pradesh,282001.0,Furniture,Furnishings,Office Cabinet,4518.34,8,0.05,-449.87,High
+119,IN-2023-10118,2023-12-06,11/12/2023,Standard Class,Sunil Joshi,Corporate,Nashik,Maharashtra,422001.0,Furniture,Storage,Document Tray,3894.5,8,0.0,-83.79,Critical
+120,IN-2023-10119,15/01/2023,21-01-2023,Standard Class,Leela Iyer,Home Office,Coimbatore,Tamil Nadu,641001.0,Office Supplies,Binders,A4 Binder Pack,776.15,8,0.3,224.23,High
+121,IN-2023-10120,22-10-2023,2023/10/24,First Class,Ravi Sharma,Home Office,Mumbai,Maharashtra,400001.0,Technology,Copiers,Canon IR Series,1010318.68,14,0.0,399220.1,Critical
+122,IN-2023-10121,2023/06/01,2023-06-04,Second Class,Priya Patel,Corporate,Delhi,Delhi,110001.0,Office Supplies,Art,Sketch Pad A3,1490.55,10,0.05,-193.47,High
+123,IN-2022-10122,2022-03-03,06/03/2022,Second Class,Arjun Singh,Corporate,Bangalore,Karnataka,560001.0,Furniture,Chairs,Recliner Chair,7970.67,4,0.0,541.47,Medium
+124,IN-2022-10123,24/09/2022,29-09-2022,Standard Class,Sneha Mehta,Consumer,Chennai,Tamil Nadu,600001.0,Technology,Accessories,USB Hub 7-Port,,8,,5041.53,Medium
+125,IN-2022-10124,18-09-2022,2022/09/18,Same Day,Kiran Rao,Consumer,Hyderabad,Telangana,500001.0,Furniture,Storage,Storage Box Set,2323.37,3,0.2,685.94,Low
+126,IN-2023-10125,2023/11/19,2023-11-24,Standard Class,Deepak Joshi,Consumer,Pune,Maharashtra,411001.0,Office Supplies,Supplies,Rubber Band Box,1874.19,8,0.0,267.88,Critical
+127,IN-2022-10126,2022-02-09,09/02/2022,Same Day,Anjali Gupta,Home Office,Kolkata,West Bengal,700001.0,Technology,Accessories,Webcam HD,16480.04,13,0.1,5002.92,Critical
+128,IN-2022-10127,19/06/2022,25-06-2022,Standard Class,Vikram Nair,Home Office,Ahmedabad,Gujarat,380001.0,Office Supplies,Envelopes,Padded Envelopes,1691.32,11,0.15,524.91,Low
+129,IN-2023-10128,03-11-2023,2023/11/06,Second Class,Pooja Verma,Corporate,Jaipur,Rajasthan,302001.0,Technology,Machines,HP LaserJet Pro,288727.66,11,0.1,96287.59,Medium
+130,IN-2022-10129,2022/02/15,2022-02-15,Same Day,,Consumer,Lucknow,Uttar Pradesh,226001.0,Technology,Accessories,Webcam HD,3560.5,2,0.1,-521.57,Low
+131,IN-2023-10130,2023-03-31,03/04/2023,First Class,,Home Office,Surat,Gujarat,395001.0,Office Supplies,Supplies,Rubber Band Box,825.21,12,0.2,-65.48,Medium
+132,IN-2022-10131,20/11/2022,20-11-2022,Same Day,Suresh Reddy,Consumer,Nagpur,Maharashtra,440001.0,Technology,Copiers,Canon IR Series,978969.16,14,0.15,-53290.76,Medium
+133,IN-2023-10132,05-12-2023,2023/12/08,Second Class,Neha Tiwari,Consumer,Indore,Madhya Pradesh,452001.0,Technology,Phones,iPhone 14,107129.75,6,0.1,,Medium
+134,IN-2023-10133,2023/04/04,2023-04-07,First Class,Amit Kumar,Home Office,Bhopal,Madhya Pradesh,462001.0,Office Supplies,Envelopes,Padded Envelopes,714.49,12,0.0,20.0,Critical
+135,IN-2022-10134,2022-06-06,08/06/2022,First Class,Sunita Desai,Consumer,Patna,Bihar,800001.0,Furniture,Tables,Conference Table,10563.31,4,0.1,-633.87,Low
+136,IN-2022-10135,21/01/2022,21-01-2022,Same Day,Rajesh Shah,Consumer,Vadodara,Gujarat,390001.0,Furniture,Furnishings,Filing Cabinet,4588.69,11,0.3,-307.07,Low
+137,IN-2022-10136,11-06-2022,2022/06/14,Second Class,Kavita Mishra,Consumer,Ludhiana,Punjab,141001.0,Office Supplies,Fasteners,Stapler Heavy Duty,639.6,9,0.05,16.89,High
+138,IN-2022-10137,2022/11/05,2022-11-11,Standard Class,Arun Pandey,Consumer,Agra,Uttar Pradesh,282001.0,Technology,Copiers,Ricoh Copier,,12,0.3,-25006.72,Low
+139,IN-2023-10138,2023-07-12,15/07/2023,Second Class,Rohit Yadav,Corporate,Nashik,Maharashtra,422001.0,Technology,Copiers,Canon IR Series,256108.33,3,0.0,90024.59,High
+140,IN-2023-10139,27/12/2023,28-12-2023,Same Day,Divya Nair,Consumer,Coimbatore,Tamil Nadu,641001.0,Furniture,Chairs,Mesh Task Chair,,12,0.1,-256.88,High
+141,IN-2023-10140,30-08-2023,2023/09/03,Second Class,Sanjay Gupta,Consumer,Mumbai,Maharashtra,400001.0,Office Supplies,Envelopes,Padded Envelopes,57.67,1,0.0,3.8,High
+142,IN-2022-10141,2022/02/15,2022-02-21,Standard Class,Rekha Verma,Consumer,Delhi,Delhi,110001.0,Office Supplies,Binders,Lever Arch Files,937.15,9,0.1,-86.49,Critical
+143,IN-2023-10142,2023-08-12,18/08/2023,Standard Class,Manoj Tiwari,Consumer,Bangalore,Karnataka,560001.0,Office Supplies,Labels,Mailing Labels,943.4,10,0.25,-103.94,Low
+144,IN-2022-10143,13/11/2022,18-11-2022,Standard Class,Geeta Sharma,Consumer,Chennai,Tamil Nadu,600001.0,Furniture,Tables,Folding Table,42821.12,10,0.0,-2478.68,Critical
+145,IN-2022-10144,14-11-2022,2022/11/17,Second Class,Vinod Patel,Home Office,Hyderabad,Telangana,500001.0,Office Supplies,Binders,Ring Binder,,9,0.2,518.12,Critical
+146,IN-2022-10145,2022/01/14,2022-01-14,Same Day,Anita Desai,Home Office,Pune,Maharashtra,411001.0,Furniture,Furnishings,Filing Cabinet,9499.04,10,0.1,-1211.94,Medium
+147,IN-2023-10146,2023-09-23,23/09/2023,Same Day,Prakash Rao,Corporate,Kolkata,West Bengal,700001.0,Office Supplies,Labels,Mailing Labels,1225.37,9,0.0,473.88,Low
+148,IN-2023-10147,15/12/2023,17-12-2023,First Class,Usha Mehta,Corporate,Ahmedabad,Gujarat,380001.0,Office Supplies,Paper,Coloured Paper Pack,1069.25,2,0.05,158.64,High
+149,IN-2023-10148,31-05-2023,2023/06/01,Same Day,Sunil Joshi,Corporate,Jaipur,Rajasthan,302001.0,Furniture,Chairs,Recliner Chair,6811.04,12,,536.36,Critical
+150,IN-2023-10149,2023/08/01,2023-08-04,Second Class,Leela Iyer,Consumer,Lucknow,Uttar Pradesh,226001.0,Technology,Copiers,Ricoh Copier,58506.93,1,0.1,-7830.16,Critical
+151,IN-2022-10150,2022-01-21,24/01/2022,Second Class,Ravi Sharma,Home Office,Surat,Gujarat,395001.0,Office Supplies,Paper,Tracing Paper,1035.35,3,0.05,63.28,Critical
+152,IN-2023-10151,07/07/2023,13-07-2023,Standard Class,Priya Patel,Consumer,Nagpur,Maharashtra,440001.0,Technology,Copiers,Ricoh Copier,489060.41,7,0.05,64525.83,Low
+153,IN-2022-10152,28-01-2022,2022/02/03,Standard Class,Arjun Singh,Consumer,Indore,Madhya Pradesh,452001.0,Office Supplies,Fasteners,Stapler Heavy Duty,851.72,9,0.0,177.73,Low
+154,IN-2023-10153,2023/12/08,2023-12-11,First Class,Sneha Mehta,Home Office,Bhopal,Madhya Pradesh,462001.0,Furniture,Chairs,Gaming Chair,6287.05,12,0.3,626.09,Medium
+155,IN-2023-10154,2023-07-30,05/08/2023,Standard Class,,Consumer,Patna,Bihar,800001.0,Office Supplies,Paper,Coloured Paper Pack,3984.11,9,0.0,754.71,Low
+156,IN-2023-10155,02/01/2023,02-01-2023,Same Day,Deepak Joshi,Consumer,,Gujarat,390001.0,Furniture,Storage,Locker Unit,2822.55,5,0.15,671.66,Critical
+157,IN-2022-10156,29-04-2022,2022/05/04,Standard Class,Anjali Gupta,Corporate,Ludhiana,Punjab,141001.0,Office Supplies,Labels,Address Labels,606.88,14,0.1,221.59,Low
+158,IN-2022-10157,2022/09/08,2022-09-11,Second Class,Vikram Nair,Consumer,,Uttar Pradesh,282001.0,Technology,Phones,Samsung Galaxy Tab,22343.19,1,0.15,1531.81,Critical
+159,IN-2022-10158,2022-05-31,01/06/2022,Same Day,Pooja Verma,Consumer,Nashik,Maharashtra,422001.0,Furniture,Storage,Storage Box Set,3826.7,7,0.1,454.86,Medium
+160,IN-2022-10159,18/12/2022,19-12-2022,Same Day,Rahul Kulkarni,Consumer,Coimbatore,Tamil Nadu,641001.0,Furniture,Tables,Folding Table,32124.6,12,0.3,-3159.6,Low
+161,IN-2023-10160,22-06-2023,2023/06/26,Second Class,Meera Iyer,Home Office,Mumbai,Maharashtra,400001.0,Furniture,Tables,Conference Table,32738.43,7,0.05,-4595.37,Low
+162,IN-2022-10161,2022/02/22,2022-02-23,Same Day,Suresh Reddy,Home Office,Delhi,Delhi,110001.0,Technology,Machines,Canon Scanner,178197.4,9,0.15,-5591.6,Medium
+163,IN-2023-10162,2023-08-08,13/08/2023,Standard Class,Neha Tiwari,Corporate,,Karnataka,560001.0,Furniture,Furnishings,Filing Cabinet,1699.47,2,0.05,554.95,Critical
+164,IN-2023-10163,01/02/2023,04-02-2023,Second Class,Amit Kumar,Corporate,Chennai,Tamil Nadu,600001.0,Office Supplies,Labels,Address Labels,1215.25,13,0.25,110.58,Medium
+165,IN-2023-10164,12-12-2023,2023/12/12,Same Day,Sunita Desai,Consumer,Hyderabad,Telangana,500001.0,Technology,Phones,Motorola G84,352816.88,14,0.0,10063.12,Medium
+166,IN-2023-10165,2023/09/14,2023-09-17,First Class,Rajesh Shah,Corporate,Pune,Maharashtra,411001.0,Office Supplies,Binders,A4 Binder Pack,239.72,1,0.05,-34.02,High
+167,IN-2023-10166,2023-10-27,02/11/2023,Standard Class,Kavita Mishra,Corporate,Kolkata,West Bengal,700001.0,Office Supplies,Envelopes,Padded Envelopes,1544.1,10,0.2,544.8,Medium
+168,IN-2022-10167,21/01/2022,23-01-2022,First Class,Arun Pandey,Consumer,Ahmedabad,Gujarat,380001.0,Office Supplies,Supplies,Sticky Notes Pack,2193.09,11,0.2,537.24,High
+169,IN-2022-10168,30-11-2022,2022/12/05,Standard Class,Rohit Yadav,Consumer,Jaipur,Rajasthan,302001.0,Technology,Phones,Motorola G84,240910.9,9,0.05,-10013.52,Medium
+170,IN-2023-10169,2023/10/20,2023-10-21,Same Day,Divya Nair,Corporate,Lucknow,Uttar Pradesh,226001.0,Office Supplies,Fasteners,Stapler Heavy Duty,1255.09,13,0.1,26.63,Medium
+171,IN-2022-10170,2022-11-08,10/11/2022,First Class,Sanjay Gupta,Consumer,Surat,Gujarat,395001.0,Office Supplies,Binders,Lever Arch Files,1216.78,11,0.2,352.72,High
+172,IN-2022-10171,21/05/2022,23-05-2022,First Class,Rekha Verma,Corporate,Nagpur,Maharashtra,440001.0,Furniture,Furnishings,Filing Cabinet,7209.76,7,0.05,1006.3,High
+173,IN-2023-10172,07-08-2023,2023/08/13,Standard Class,Manoj Tiwari,Corporate,Indore,Madhya Pradesh,452001.0,Office Supplies,Labels,Mailing Labels,584.11,10,0.1,,Medium
+174,IN-2023-10173,2023/11/07,2023-11-11,Second Class,Geeta Sharma,Consumer,Bhopal,Madhya Pradesh,462001.0,Furniture,Storage,Document Tray,6629.35,8,,1439.58,High
+175,IN-2023-10174,2023-10-17,20/10/2023,Second Class,Vinod Patel,Consumer,Patna,Bihar,800001.0,Office Supplies,Supplies,Correction Fluid,733.75,3,0.1,105.99,Critical
+176,IN-2022-10175,20/09/2022,20-09-2022,Same Day,Anita Desai,Corporate,Vadodara,Gujarat,390001.0,Office Supplies,Paper,A4 Paper Ream 500,7718.04,14,0.0,-555.88,High
+177,IN-2022-10176,06-08-2022,2022/08/09,First Class,Prakash Rao,Corporate,Ludhiana,Punjab,141001.0,Office Supplies,Art,Drawing Kit,2452.45,9,0.3,-194.68,Critical
+178,IN-2023-10177,2023/12/09,2023-12-12,Second Class,Usha Mehta,Corporate,Agra,Uttar Pradesh,282001.0,Furniture,Furnishings,Office Cabinet,841.87,1,0.05,43.63,Low
+179,IN-2022-10178,2022-02-27,27/02/2022,Same Day,Sunil Joshi,Corporate,Nashik,Maharashtra,422001.0,Furniture,Storage,Locker Unit,2138.52,5,0.1,479.18,Low
+180,IN-2023-10179,18/03/2023,19-03-2023,Same Day,Leela Iyer,Consumer,Coimbatore,Tamil Nadu,641001.0,Furniture,Furnishings,Filing Cabinet,4345.23,6,0.15,460.0,Medium
+181,IN-2023-10180,19-10-2023,2023/10/20,Same Day,Ravi Sharma,Home Office,Mumbai,Maharashtra,400001.0,Office Supplies,Supplies,Correction Fluid,1398.17,7,0.0,136.61,Critical
+182,IN-2022-10181,2022/09/05,2022-09-06,Same Day,Priya Patel,Corporate,Delhi,Delhi,110001.0,Technology,Copiers,Ricoh Copier,333311.96,13,0.3,-46325.53,Critical
+183,IN-2023-10182,2023-07-04,05/07/2023,Same Day,Arjun Singh,Consumer,Bangalore,Karnataka,560001.0,Office Supplies,Labels,Address Labels,263.29,6,0.15,-21.0,Critical
+184,IN-2023-10183,25/03/2023,30-03-2023,Standard Class,Sneha Mehta,Corporate,Chennai,Tamil Nadu,600001.0,Furniture,Chairs,Recliner Chair,1998.82,2,0.05,80.91,Low
+185,IN-2022-10184,11-04-2022,2022/04/15,Second Class,Kiran Rao,Home Office,Hyderabad,Telangana,500001.0,Furniture,Tables,Executive Desk,4884.67,2,0.25,602.43,Critical
+186,IN-2022-10185,2022/03/08,2022-03-12,Second Class,Deepak Joshi,Consumer,Pune,Maharashtra,411001.0,Technology,Accessories,Wireless Mouse,2800.37,2,0.15,400.07,Medium
+187,IN-2022-10186,2022-09-23,23/09/2022,Same Day,Anjali Gupta,Consumer,Kolkata,West Bengal,,Technology,Machines,HP LaserJet Pro,30977.73,3,0.15,1250.1,Medium
+188,IN-2023-10187,28/04/2023,28-04-2023,Same Day,Vikram Nair,Corporate,Ahmedabad,Gujarat,380001.0,Office Supplies,Binders,Ring Binder,1596.93,14,0.2,488.87,High
+189,IN-2022-10188,08-05-2022,2022/05/09,Same Day,Pooja Verma,Home Office,Jaipur,Rajasthan,302001.0,Office Supplies,Paper,A4 Paper Ream 500,966.6,2,0.0,-102.48,Critical
+190,IN-2022-10189,2022/03/01,2022-03-04,Second Class,Rahul Kulkarni,Corporate,Lucknow,Uttar Pradesh,226001.0,Technology,Copiers,Ricoh Copier,416611.93,13,0.1,-12989.54,Medium
+191,IN-2023-10190,2023-04-08,10/04/2023,First Class,Meera Iyer,Consumer,Surat,Gujarat,395001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,11676.52,10,0.1,3092.4,Critical
+192,IN-2022-10191,17/09/2022,18-09-2022,Same Day,Suresh Reddy,Consumer,,Maharashtra,440001.0,Furniture,Storage,Storage Box Set,5980.3,12,0.0,1379.59,Low
+193,IN-2023-10192,30-04-2023,2023/05/04,Second Class,Neha Tiwari,Home Office,Indore,Madhya Pradesh,,Technology,Machines,Canon Scanner,41320.39,4,0.15,,High
+194,IN-2023-10193,2023/05/25,2023-05-28,Second Class,Amit Kumar,Consumer,Bhopal,Madhya Pradesh,,Office Supplies,Envelopes,Brown Envelopes,1017.59,11,0.2,257.95,Low
+195,IN-2022-10194,2022-08-01,07/08/2022,Standard Class,Sunita Desai,Consumer,Patna,Bihar,800001.0,Office Supplies,Fasteners,Binder Clips Set,517.13,5,0.0,74.68,Low
+196,IN-2022-10195,04/11/2022,07-11-2022,First Class,Rajesh Shah,Consumer,Vadodara,Gujarat,390001.0,Technology,Accessories,USB Hub 7-Port,8633.46,13,0.05,-32.65,High
+197,IN-2023-10196,26-02-2023,2023/03/04,Standard Class,Kavita Mishra,Consumer,Ludhiana,Punjab,141001.0,Office Supplies,Labels,Address Labels,232.21,4,0.15,68.71,Critical
+198,IN-2022-10197,2022/04/07,2022-04-08,Same Day,Arun Pandey,Corporate,Agra,Uttar Pradesh,282001.0,Technology,Phones,Motorola G84,21213.52,1,0.25,6255.57,Low
+199,IN-2022-10198,2022-06-22,24/06/2022,First Class,Rohit Yadav,Home Office,Nashik,Maharashtra,422001.0,Furniture,Storage,Locker Unit,4226.52,7,0.2,846.02,Low
+200,IN-2023-10199,12/02/2023,17-02-2023,Standard Class,Divya Nair,Consumer,Coimbatore,Tamil Nadu,641001.0,Technology,Machines,HP LaserJet Pro,74401.08,8,0.0,18152.22,High
+201,IN-2023-10200,14-05-2023,2023/05/17,First Class,Sanjay Gupta,Consumer,Mumbai,Maharashtra,400001.0,Technology,Phones,Motorola G84,160807.97,10,0.3,61736.19,High
+202,IN-2022-10201,2022/08/08,2022-08-08,Same Day,Rekha Verma,Consumer,Delhi,Delhi,110001.0,Office Supplies,Art,Sketch Pad A3,2491.04,6,0.0,-344.96,Critical
+203,IN-2023-10202,2023-09-09,09/09/2023,Same Day,Manoj Tiwari,Consumer,Bangalore,Karnataka,560001.0,Technology,Phones,Samsung Galaxy Tab,57036.92,2,0.0,-543.14,Medium
+204,IN-2023-10203,24/11/2023,28-11-2023,Second Class,Geeta Sharma,Home Office,Chennai,Tamil Nadu,600001.0,Office Supplies,Supplies,Rubber Band Box,2565.22,10,0.0,997.83,Low
+205,IN-2023-10204,03-05-2023,2023/05/08,Standard Class,Vinod Patel,Corporate,Hyderabad,Telangana,500001.0,Technology,Copiers,Ricoh Copier,342638.62,11,0.0,61398.23,Low
+206,IN-2022-10205,2022/05/02,2022-05-06,Second Class,Anita Desai,Corporate,Pune,Maharashtra,,Office Supplies,Paper,Coloured Paper Pack,1359.9,4,0.0,-56.29,Low
+207,IN-2022-10206,2022-08-26,29/08/2022,Second Class,Prakash Rao,Consumer,Kolkata,West Bengal,700001.0,Technology,Copiers,Xerox WorkCenter,147594.19,2,0.0,57284.04,Critical
+208,IN-2023-10207,12/03/2023,17-03-2023,Standard Class,Usha Mehta,Consumer,Ahmedabad,Gujarat,380001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,,6,0.15,-926.95,High
+209,IN-2022-10208,19-01-2022,2022/01/21,First Class,Sunil Joshi,Home Office,Jaipur,Rajasthan,302001.0,Office Supplies,Supplies,Correction Fluid,1086.07,6,0.1,140.75,Medium
+210,IN-2022-10209,2022/09/18,2022-09-23,Standard Class,Leela Iyer,Corporate,Lucknow,Uttar Pradesh,226001.0,Technology,Machines,HP LaserJet Pro,53358.96,5,0.1,-7729.98,Critical
+211,IN-2022-10210,2022-03-07,09/03/2022,First Class,Ravi Sharma,Home Office,Surat,Gujarat,395001.0,Furniture,Tables,Folding Table,23555.87,11,0.15,7027.07,High
+212,IN-2023-10211,22/02/2023,25-02-2023,Second Class,Priya Patel,Consumer,Nagpur,Maharashtra,440001.0,Office Supplies,Labels,Address Labels,1241.87,10,0.0,323.08,Low
+213,IN-2022-10212,12-05-2022,2022/05/15,First Class,Arjun Singh,Consumer,Indore,Madhya Pradesh,452001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,11692.1,7,0.1,-951.82,Low
+214,IN-2022-10213,2022/07/07,2022-07-10,Second Class,Sneha Mehta,Corporate,Bhopal,Madhya Pradesh,462001.0,Furniture,Tables,Conference Table,14715.74,6,0.15,-2181.31,Medium
+215,IN-2023-10214,2023-06-20,21/06/2023,Same Day,Kiran Rao,Consumer,Patna,Bihar,800001.0,Office Supplies,Supplies,Correction Fluid,3363.58,14,0.0,-87.48,Critical
+216,IN-2022-10215,10/11/2022,11-11-2022,Same Day,Deepak Joshi,Corporate,Vadodara,Gujarat,390001.0,Office Supplies,Labels,Colour Dot Labels,110.74,1,0.0,25.74,Medium
+217,IN-2023-10216,20-09-2023,2023/09/23,Second Class,Anjali Gupta,Consumer,Ludhiana,Punjab,,Technology,Machines,Canon Scanner,143074.44,13,0.05,12692.23,High
+218,IN-2022-10217,2022/02/16,2022-02-16,Same Day,Vikram Nair,Corporate,Agra,Uttar Pradesh,282001.0,Office Supplies,Envelopes,Padded Envelopes,1189.44,12,0.0,238.67,Critical
+219,IN-2022-10218,2022-02-19,24/02/2022,Standard Class,Pooja Verma,Corporate,Nashik,Maharashtra,422001.0,Technology,Copiers,Canon IR Series,435801.26,7,0.1,-21152.95,Medium
+220,IN-2023-10219,04/08/2023,06-08-2023,First Class,Rahul Kulkarni,Consumer,Coimbatore,Tamil Nadu,641001.0,Furniture,Storage,Document Tray,806.93,1,0.15,-96.13,Medium
+221,IN-2023-10220,03-10-2023,2023/10/06,First Class,Meera Iyer,Consumer,Mumbai,Maharashtra,400001.0,Office Supplies,Art,Sketch Pad A3,1773.75,5,0.1,-217.44,Medium
+222,IN-2023-10221,2023/12/26,2024-01-01,Standard Class,Suresh Reddy,Corporate,Delhi,Delhi,110001.0,Technology,Accessories,Wireless Mouse,9607.76,12,0.05,3434.22,Critical
+223,IN-2023-10222,2023-09-10,10/09/2023,Same Day,Neha Tiwari,Consumer,Bangalore,Karnataka,560001.0,Furniture,Furnishings,Pedestal Unit,1525.03,3,0.15,588.9,Medium
+224,IN-2023-10223,03/06/2023,07-06-2023,Second Class,Amit Kumar,Corporate,Chennai,Tamil Nadu,600001.0,Furniture,Storage,Locker Unit,2614.26,4,0.1,105.24,Low
+225,IN-2022-10224,22-05-2022,2022/05/22,Same Day,Sunita Desai,Home Office,Hyderabad,Telangana,500001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,12299.78,8,0.25,-1491.45,Critical
+226,IN-2023-10225,2023/01/19,2023-01-25,Standard Class,Rajesh Shah,Consumer,Pune,Maharashtra,411001.0,Technology,Phones,OnePlus Nord,99846.41,7,0.1,10500.13,Low
+227,IN-2023-10226,2023-10-26,31/10/2023,Standard Class,Kavita Mishra,Consumer,Kolkata,West Bengal,700001.0,Furniture,Tables,Conference Table,11619.06,4,0.0,2626.66,Low
+228,IN-2023-10227,31/07/2023,04-08-2023,Second Class,Arun Pandey,Consumer,,Gujarat,380001.0,Office Supplies,Envelopes,Padded Envelopes,994.95,7,0.1,-104.52,Medium
+229,IN-2023-10228,11-08-2023,2023/08/14,First Class,Rohit Yadav,Consumer,Jaipur,Rajasthan,,Technology,Copiers,Xerox WorkCenter,56039.2,2,0.2,5777.04,Medium
+230,IN-2023-10229,2023/06/16,2023-06-19,First Class,Divya Nair,Corporate,Lucknow,Uttar Pradesh,226001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,2428.18,3,0.15,-95.31,Low
+231,IN-2023-10230,2023-01-16,19/01/2023,Second Class,Sanjay Gupta,Consumer,Surat,Gujarat,395001.0,Technology,Accessories,Keyboard Bluetooth,5674.81,8,0.15,-346.78,High
+232,IN-2022-10231,15/08/2022,21-08-2022,Standard Class,Rekha Verma,Corporate,Nagpur,Maharashtra,440001.0,Technology,Phones,OnePlus Nord,22068.94,2,0.1,7725.7,Medium
+233,IN-2023-10232,23-05-2023,2023/05/27,Second Class,Manoj Tiwari,Consumer,Indore,Madhya Pradesh,452001.0,Office Supplies,Envelopes,Window Envelopes,1291.2,11,0.3,-48.97,Critical
+234,IN-2023-10233,2023/01/22,2023-01-22,Same Day,Geeta Sharma,Corporate,Bhopal,Madhya Pradesh,462001.0,Furniture,Chairs,Recliner Chair,18585.86,14,0.0,4325.76,Medium
+235,IN-2023-10234,2023-09-05,06/09/2023,Same Day,Vinod Patel,Home Office,Patna,Bihar,,Furniture,Chairs,Gaming Chair,577.67,1,0.05,146.12,High
+236,IN-2023-10235,17/06/2023,20-06-2023,First Class,Anita Desai,Corporate,Vadodara,Gujarat,390001.0,Technology,Machines,Canon Scanner,208638.47,9,0.1,79683.13,Low
+237,IN-2023-10236,28-10-2023,2023/11/03,Standard Class,Prakash Rao,Corporate,Ludhiana,Punjab,141001.0,Furniture,Tables,Study Desk,21824.44,11,0.0,3445.33,Critical
+238,IN-2023-10237,2023/01/30,2023-01-31,Same Day,Usha Mehta,Consumer,Agra,Uttar Pradesh,282001.0,Technology,Copiers,Xerox WorkCenter,704477.84,9,0.1,169521.0,Low
+239,IN-2022-10238,2022-08-06,12/08/2022,Standard Class,Sunil Joshi,Home Office,Nashik,Maharashtra,422001.0,Office Supplies,Art,Sketch Pad A3,2497.57,6,0.05,-135.95,Critical
+240,IN-2023-10239,24/10/2023,24-10-2023,Same Day,Leela Iyer,Corporate,Coimbatore,Tamil Nadu,,Office Supplies,Paper,A4 Paper Ream 500,1155.63,3,0.15,240.52,Critical
+241,IN-2022-10240,05-09-2022,2022/09/08,First Class,Ravi Sharma,Home Office,Mumbai,Maharashtra,400001.0,Office Supplies,Supplies,Sticky Notes Pack,231.34,3,0.15,-21.17,Critical
+242,IN-2022-10241,2022/05/23,2022-05-26,Second Class,Priya Patel,Corporate,Delhi,Delhi,,Furniture,Furnishings,Office Cabinet,3323.23,8,0.0,123.65,Low
+243,IN-2022-10242,2022-07-26,29/07/2022,First Class,Arjun Singh,Consumer,Bangalore,Karnataka,560001.0,Technology,Phones,iPhone 14,114669.54,4,0.2,31113.93,Critical
+244,IN-2023-10243,03/12/2023,03-12-2023,Same Day,Sneha Mehta,Corporate,Chennai,Tamil Nadu,600001.0,Technology,Machines,Brother Printer,112832.54,11,0.05,11643.99,Low
+245,IN-2022-10244,24-03-2022,2022/03/27,First Class,Kiran Rao,Consumer,Hyderabad,Telangana,500001.0,Technology,Machines,Canon Scanner,7911.57,1,0.15,2808.15,Medium
+246,IN-2023-10245,2023/09/25,2023-09-26,Same Day,Deepak Joshi,Home Office,Pune,Maharashtra,411001.0,Technology,Phones,Motorola G84,133230.83,4,0.1,20990.74,High
+247,IN-2022-10246,2022-03-30,05/04/2022,Standard Class,Anjali Gupta,Corporate,,West Bengal,700001.0,Office Supplies,Fasteners,Paper Clips Box,534.96,13,0.0,-66.67,Critical
+248,IN-2023-10247,29/09/2023,03-10-2023,Second Class,Vikram Nair,Corporate,Ahmedabad,Gujarat,380001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,29867.96,14,0.0,9930.55,Low
+249,IN-2023-10248,09-05-2023,2023/05/12,First Class,Pooja Verma,Consumer,Jaipur,Rajasthan,302001.0,Technology,Machines,Brother Printer,344553.13,13,0.0,29648.94,Critical
+250,IN-2022-10249,2022/02/04,2022-02-09,Standard Class,Rahul Kulkarni,Corporate,Lucknow,Uttar Pradesh,226001.0,Office Supplies,Labels,Mailing Labels,241.6,3,0.15,33.55,Critical
+251,IN-2023-10250,2023-10-21,24/10/2023,First Class,Meera Iyer,Consumer,Surat,Gujarat,395001.0,Technology,Copiers,Xerox WorkCenter,392288.64,7,0.05,34924.59,High
+252,IN-2023-10251,24/06/2023,27-06-2023,First Class,Suresh Reddy,Consumer,,Maharashtra,440001.0,Furniture,Storage,Locker Unit,3600.71,6,0.15,-69.9,Critical
+253,IN-2022-10252,19-09-2022,2022/09/22,First Class,Neha Tiwari,Consumer,Indore,Madhya Pradesh,452001.0,Office Supplies,Fasteners,Binder Clips Set,605.6,8,0.15,77.79,Medium
+254,IN-2023-10253,2023/09/13,2023-09-18,Standard Class,Amit Kumar,Consumer,Bhopal,Madhya Pradesh,462001.0,Office Supplies,Labels,Address Labels,1399.97,10,0.0,151.62,Low
+255,IN-2023-10254,2023-02-08,09/02/2023,Same Day,Sunita Desai,Corporate,Patna,Bihar,800001.0,Office Supplies,Art,Watercolour Set,3466.56,13,0.2,-425.61,High
+256,IN-2023-10255,07/07/2023,07-07-2023,Same Day,Rajesh Shah,Consumer,Vadodara,Gujarat,390001.0,Office Supplies,Art,Watercolour Set,3959.86,14,0.0,11.1,Low
+257,IN-2023-10256,11-07-2023,2023/07/13,First Class,Kavita Mishra,Consumer,Ludhiana,Punjab,141001.0,Furniture,Chairs,Recliner Chair,19923.87,13,0.0,1949.12,Medium
+258,IN-2022-10257,2022/09/07,2022-09-09,First Class,Arun Pandey,Consumer,Agra,Uttar Pradesh,282001.0,Office Supplies,Art,Watercolour Set,4431.75,13,0.05,1343.2,Critical
+259,IN-2022-10258,2022-11-20,24/11/2022,Second Class,Rohit Yadav,Consumer,Nashik,Maharashtra,422001.0,Office Supplies,Supplies,Rubber Band Box,3421.48,13,0.0,1126.96,Medium
+260,IN-2022-10259,10/02/2022,12-02-2022,First Class,Divya Nair,Home Office,Coimbatore,Tamil Nadu,641001.0,Office Supplies,Art,Drawing Kit,3040.65,12,0.25,,High
+261,IN-2023-10260,12-01-2023,2023/01/15,Second Class,Sanjay Gupta,Consumer,Mumbai,Maharashtra,400001.0,Office Supplies,Paper,Coloured Paper Pack,1591.73,3,,318.11,Low
+262,IN-2022-10261,2022/09/25,2022-09-28,Second Class,Rekha Verma,Home Office,Delhi,Delhi,110001.0,Office Supplies,Envelopes,Padded Envelopes,211.71,2,0.2,83.67,Low
+263,IN-2022-10262,2022-10-21,22/10/2022,Same Day,Manoj Tiwari,Consumer,Bangalore,Karnataka,560001.0,Furniture,Tables,Conference Table,21544.41,5,0.0,2297.37,Low
+264,IN-2023-10263,27/03/2023,27-03-2023,Same Day,Geeta Sharma,Consumer,Chennai,Tamil Nadu,600001.0,Technology,Copiers,Canon IR Series,590668.94,13,0.05,167715.62,Critical
+265,IN-2023-10264,15-01-2023,2023/01/18,Second Class,Vinod Patel,Home Office,Hyderabad,Telangana,500001.0,Technology,Machines,Brother Printer,220931.87,8,0.0,11826.21,Critical
+266,IN-2023-10265,2023/10/31,2023-11-01,Same Day,Anita Desai,Corporate,Pune,Maharashtra,411001.0,Office Supplies,Labels,Mailing Labels,321.44,7,0.2,12.93,High
+267,IN-2023-10266,2023-11-19,25/11/2023,Standard Class,Prakash Rao,Corporate,Kolkata,West Bengal,700001.0,Office Supplies,Envelopes,Brown Envelopes,1201.61,11,0.05,267.26,Critical
+268,IN-2023-10267,11/07/2023,14-07-2023,First Class,Usha Mehta,Corporate,Ahmedabad,Gujarat,380001.0,Office Supplies,Supplies,Correction Fluid,3821.45,13,0.0,1481.19,High
+269,IN-2023-10268,26-06-2023,2023/06/29,First Class,Sunil Joshi,Consumer,Jaipur,Rajasthan,302001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,13042.19,11,0.0,3468.15,Low
+270,IN-2022-10269,2022/03/18,2022-03-23,Standard Class,Leela Iyer,Home Office,Lucknow,Uttar Pradesh,226001.0,Furniture,Tables,Executive Desk,14755.51,5,0.05,5860.47,Low
+271,IN-2023-10270,2023-01-14,19/01/2023,Standard Class,Ravi Sharma,Home Office,Surat,Gujarat,395001.0,Office Supplies,Art,Sketch Pad A3,1774.22,4,0.1,253.26,Medium
+272,IN-2022-10271,25/12/2022,26-12-2022,Same Day,Priya Patel,Consumer,Nagpur,Maharashtra,440001.0,Furniture,Storage,Locker Unit,3054.31,10,0.05,-4.17,High
+273,IN-2022-10272,14-04-2022,2022/04/20,Standard Class,Arjun Singh,Consumer,Indore,Madhya Pradesh,452001.0,Office Supplies,Art,Drawing Kit,4275.7,13,0.1,303.48,High
+274,IN-2022-10273,2022/03/05,2022-03-08,Second Class,Sneha Mehta,Corporate,Bhopal,Madhya Pradesh,462001.0,Office Supplies,Art,Drawing Kit,773.1,5,0.2,186.31,High
+275,IN-2022-10274,2022-07-03,09/07/2022,Standard Class,Kiran Rao,Home Office,Patna,Bihar,800001.0,Office Supplies,Art,Drawing Kit,1567.47,12,0.15,238.46,Low
+276,IN-2023-10275,26/11/2023,30-11-2023,Second Class,Deepak Joshi,Consumer,Vadodara,Gujarat,390001.0,Furniture,Chairs,Recliner Chair,3895.74,3,0.0,1032.53,High
+277,IN-2022-10276,23-03-2022,2022/03/26,First Class,Anjali Gupta,Consumer,Ludhiana,Punjab,141001.0,Office Supplies,Fasteners,Stapler Heavy Duty,802.05,11,0.1,134.35,Low
+278,IN-2022-10277,2022/12/03,2022-12-08,Standard Class,Vikram Nair,Home Office,Agra,Uttar Pradesh,282001.0,Technology,Copiers,Canon IR Series,566991.91,13,0.3,-66502.84,Low
+279,IN-2023-10278,2023-04-25,26/04/2023,Same Day,Pooja Verma,Consumer,Nashik,Maharashtra,422001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,8741.4,5,0.1,3142.62,Medium
+280,IN-2023-10279,01/07/2023,07-07-2023,Standard Class,Rahul Kulkarni,Corporate,Coimbatore,Tamil Nadu,641001.0,Office Supplies,Fasteners,Binder Clips Set,827.36,10,0.1,,Critical
+281,IN-2022-10280,06-03-2022,2022/03/09,First Class,Meera Iyer,Corporate,Mumbai,Maharashtra,400001.0,Technology,Machines,Brother Printer,36830.94,2,0.2,,High
+282,IN-2023-10281,2023/07/01,2023-07-07,Standard Class,Suresh Reddy,Home Office,Delhi,Delhi,110001.0,Office Supplies,Art,Watercolour Set,,8,0.2,901.4,Critical
+283,IN-2022-10282,2022-07-07,09/07/2022,First Class,Neha Tiwari,Consumer,Bangalore,Karnataka,560001.0,Office Supplies,Paper,Coloured Paper Pack,5719.97,14,0.05,-650.33,Critical
+284,IN-2023-10283,15/01/2023,19-01-2023,Second Class,Amit Kumar,Home Office,Chennai,Tamil Nadu,600001.0,Furniture,Storage,Locker Unit,8467.73,11,0.15,-744.21,Medium
+285,IN-2023-10284,24-09-2023,2023/09/25,Same Day,Sunita Desai,Consumer,Hyderabad,Telangana,500001.0,Furniture,Tables,Conference Table,19704.37,8,0.0,89.7,High
+286,IN-2022-10285,2022/11/09,2022-11-11,First Class,Rajesh Shah,Consumer,Pune,Maharashtra,411001.0,Furniture,Storage,Locker Unit,675.27,1,0.0,-88.79,Low
+287,IN-2022-10286,2022-01-14,15/01/2022,Same Day,Kavita Mishra,Consumer,Kolkata,West Bengal,700001.0,Technology,Machines,Canon Scanner,203898.82,14,0.2,31616.87,Critical
+288,IN-2022-10287,12/01/2022,12-01-2022,Same Day,Arun Pandey,Corporate,Ahmedabad,Gujarat,380001.0,Technology,Copiers,Canon IR Series,411340.82,6,0.0,145711.49,Medium
+289,IN-2022-10288,03-06-2022,2022/06/09,Standard Class,Rohit Yadav,Consumer,Jaipur,Rajasthan,,Technology,Copiers,Ricoh Copier,496912.0,11,0.05,-46455.54,Medium
+290,IN-2023-10289,2023/10/13,2023-10-18,Standard Class,Divya Nair,Consumer,Lucknow,Uttar Pradesh,226001.0,Office Supplies,Supplies,Rubber Band Box,678.6,8,0.0,174.74,Critical
+291,IN-2022-10290,2022-07-17,20/07/2022,First Class,Sanjay Gupta,Consumer,Surat,Gujarat,395001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,,12,0.25,6884.73,Low
+292,IN-2022-10291,24/06/2022,24-06-2022,Same Day,Rekha Verma,Home Office,Nagpur,Maharashtra,440001.0,Office Supplies,Binders,Lever Arch Files,1584.89,7,0.05,313.79,High
+293,IN-2023-10292,17-06-2023,2023/06/21,Second Class,Manoj Tiwari,Consumer,Indore,Madhya Pradesh,452001.0,Technology,Phones,Samsung Galaxy Tab,173868.91,8,0.3,41102.14,Low
+294,IN-2023-10293,2023/05/11,2023-05-14,First Class,Geeta Sharma,Corporate,Bhopal,Madhya Pradesh,462001.0,Office Supplies,Paper,A4 Paper Ream 500,2276.33,5,0.05,,High
+295,IN-2023-10294,2023-06-12,14/06/2023,First Class,Vinod Patel,Corporate,Patna,Bihar,800001.0,Technology,Phones,Motorola G84,207641.77,7,0.05,62749.12,Medium
+296,IN-2022-10295,20/09/2022,21-09-2022,Same Day,Anita Desai,Corporate,Vadodara,Gujarat,390001.0,Office Supplies,Fasteners,Paper Clips Box,345.61,4,0.1,4.29,Critical
+297,IN-2022-10296,15-08-2022,2022/08/15,Same Day,Prakash Rao,Corporate,Ludhiana,Punjab,141001.0,Furniture,Furnishings,Office Cabinet,11902.63,12,0.0,4042.35,High
+298,IN-2023-10297,2023/02/02,2023-02-06,Second Class,Usha Mehta,Consumer,,Uttar Pradesh,282001.0,Furniture,Tables,Conference Table,17947.11,12,0.15,-304.4,Critical
+299,IN-2022-10298,2022-07-07,08/07/2022,Same Day,Sunil Joshi,Consumer,Nashik,Maharashtra,422001.0,Office Supplies,Fasteners,Paper Clips Box,1062.74,12,0.0,111.86,Medium
+300,IN-2023-10299,30/11/2023,05-12-2023,Standard Class,Leela Iyer,Corporate,Coimbatore,Tamil Nadu,641001.0,Furniture,Furnishings,Pedestal Unit,573.42,1,0.3,-46.42,Medium
+301,IN-2023-10300,21-12-2023,2023/12/21,Same Day,Ravi Sharma,Home Office,Mumbai,Maharashtra,400001.0,Furniture,Storage,Storage Box Set,812.1,1,0.0,164.87,Critical
+302,IN-2023-10301,2023/04/01,2023-04-06,Standard Class,Priya Patel,Corporate,Delhi,Delhi,110001.0,Office Supplies,Labels,Colour Dot Labels,106.92,3,0.2,30.02,Critical
+303,IN-2022-10302,2022-08-06,07/08/2022,Same Day,Arjun Singh,Consumer,Bangalore,Karnataka,560001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,23204.37,9,0.1,2561.08,High
+304,IN-2023-10303,25/07/2023,31-07-2023,Standard Class,Sneha Mehta,Home Office,Chennai,Tamil Nadu,600001.0,Technology,Phones,Motorola G84,70562.86,4,0.3,-7650.23,Low
+305,IN-2022-10304,09-03-2022,2022/03/09,Same Day,Kiran Rao,Consumer,Hyderabad,Telangana,500001.0,Furniture,Tables,Conference Table,25345.29,10,0.0,,Critical
+306,IN-2023-10305,2023/11/17,2023-11-20,First Class,Deepak Joshi,Consumer,Pune,Maharashtra,411001.0,Office Supplies,Binders,A4 Binder Pack,666.68,4,,97.57,Low
+307,IN-2023-10306,2023-07-27,31/07/2023,Second Class,Anjali Gupta,Corporate,Kolkata,West Bengal,700001.0,Technology,Copiers,Xerox WorkCenter,326129.82,11,0.05,5235.75,High
+308,IN-2023-10307,04/06/2023,08-06-2023,Second Class,Vikram Nair,Corporate,Ahmedabad,Gujarat,,Furniture,Tables,Folding Table,18441.98,10,0.1,2922.7,Low
+309,IN-2023-10308,03-08-2023,2023/08/08,Standard Class,Pooja Verma,Home Office,Jaipur,Rajasthan,302001.0,Office Supplies,Binders,Ring Binder,3054.81,13,0.05,649.19,Critical
+310,IN-2022-10309,2022/11/07,2022-11-10,First Class,Rahul Kulkarni,Consumer,Lucknow,Uttar Pradesh,226001.0,Office Supplies,Envelopes,Window Envelopes,1932.19,14,0.0,174.57,High
+311,IN-2023-10310,2023-03-26,01/04/2023,Standard Class,Meera Iyer,Corporate,Surat,Gujarat,395001.0,Technology,Copiers,Canon IR Series,910344.95,13,0.25,344178.29,Critical
+312,IN-2022-10311,03/04/2022,04-04-2022,Same Day,Suresh Reddy,Corporate,Nagpur,Maharashtra,440001.0,Furniture,Furnishings,Pedestal Unit,11025.99,14,0.15,-667.24,Medium
+313,IN-2022-10312,18-11-2022,2022/11/18,Same Day,Neha Tiwari,Corporate,Indore,Madhya Pradesh,452001.0,Technology,Copiers,Xerox WorkCenter,,12,0.0,225996.51,Medium
+314,IN-2023-10313,2023/03/14,2023-03-15,Same Day,Amit Kumar,Corporate,Bhopal,Madhya Pradesh,462001.0,Furniture,Storage,Locker Unit,,9,0.2,-614.59,Low
+315,IN-2023-10314,2023-11-06,11/11/2023,Standard Class,,Home Office,Patna,Bihar,800001.0,Technology,Phones,Motorola G84,265453.68,9,,17480.66,Medium
+316,IN-2022-10315,24/04/2022,27-04-2022,Second Class,Rajesh Shah,Home Office,Vadodara,Gujarat,390001.0,Office Supplies,Fasteners,Paper Clips Box,236.21,2,0.05,39.12,Critical
+317,IN-2022-10316,05-10-2022,2022/10/11,Standard Class,Kavita Mishra,Consumer,Ludhiana,Punjab,141001.0,Technology,Copiers,Canon IR Series,,10,0.15,-18211.2,Low
+318,IN-2022-10317,2022/04/19,2022-04-22,First Class,Arun Pandey,Corporate,Agra,Uttar Pradesh,282001.0,Furniture,Furnishings,Office Cabinet,8955.57,11,0.05,264.07,High
+319,IN-2023-10318,2023-09-20,22/09/2023,First Class,Rohit Yadav,Consumer,Nashik,Maharashtra,422001.0,Technology,Accessories,Webcam HD,5565.4,5,0.15,623.24,Medium
+320,IN-2023-10319,25/02/2023,28-02-2023,Second Class,Divya Nair,Corporate,Coimbatore,Tamil Nadu,641001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,5738.47,7,0.1,289.19,High
+321,IN-2022-10320,17-10-2022,2022/10/17,Same Day,Sanjay Gupta,Consumer,Mumbai,Maharashtra,400001.0,Technology,Copiers,Canon IR Series,887601.68,13,0.15,38993.61,High
+322,IN-2023-10321,2023/12/01,2023-12-07,Standard Class,Rekha Verma,Consumer,Delhi,Delhi,110001.0,Furniture,Furnishings,Pedestal Unit,4989.58,13,0.0,1352.43,Low
+323,IN-2022-10322,2022-02-07,10/02/2022,Second Class,Manoj Tiwari,Consumer,Bangalore,Karnataka,560001.0,Office Supplies,Supplies,Sticky Notes Pack,491.22,6,0.05,164.81,High
+324,IN-2022-10323,25/07/2022,25-07-2022,Same Day,Geeta Sharma,Corporate,Chennai,Tamil Nadu,600001.0,Office Supplies,Art,Watercolour Set,2013.02,7,0.2,603.73,High
+325,IN-2022-10324,29-09-2022,2022/09/29,Same Day,Vinod Patel,Consumer,Hyderabad,Telangana,,Technology,Accessories,Webcam HD,5873.79,7,0.15,871.43,Low
+326,IN-2023-10325,2023/05/20,2023-05-23,Second Class,Anita Desai,Consumer,Pune,Maharashtra,411001.0,Technology,Copiers,Canon IR Series,,2,0.1,,Medium
+327,IN-2022-10326,2022-03-22,24/03/2022,First Class,Prakash Rao,Corporate,Kolkata,West Bengal,700001.0,Furniture,Chairs,Recliner Chair,,5,0.15,1391.94,Critical
+328,IN-2023-10327,22/02/2023,27-02-2023,Standard Class,Usha Mehta,Consumer,Ahmedabad,Gujarat,380001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,1103.59,1,0.0,350.68,Low
+329,IN-2022-10328,11-07-2022,2022/07/16,Standard Class,Sunil Joshi,Consumer,Jaipur,Rajasthan,302001.0,Furniture,Furnishings,Office Cabinet,1165.32,3,0.15,255.3,High
+330,IN-2022-10329,2022/09/27,2022-10-01,Second Class,Leela Iyer,Consumer,Lucknow,Uttar Pradesh,226001.0,Office Supplies,Labels,Address Labels,35.78,1,0.2,-5.14,Low
+331,IN-2023-10330,2023-03-29,03/04/2023,Standard Class,Ravi Sharma,Consumer,Surat,Gujarat,395001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,6386.52,3,0.1,941.4,Low
+332,IN-2023-10331,04/03/2023,06-03-2023,First Class,Priya Patel,Consumer,Nagpur,Maharashtra,440001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,12765.42,12,0.2,3763.69,Critical
+333,IN-2023-10332,18-08-2023,2023/08/18,Same Day,Arjun Singh,Consumer,Indore,Madhya Pradesh,452001.0,Technology,Phones,Samsung Galaxy Tab,124290.96,8,0.1,20440.93,High
+334,IN-2022-10333,2022/04/07,2022-04-07,Same Day,Sneha Mehta,Consumer,Bhopal,Madhya Pradesh,462001.0,Office Supplies,Labels,Mailing Labels,41.93,1,0.05,-1.87,Low
+335,IN-2023-10334,2023-03-26,01/04/2023,Standard Class,,Corporate,Patna,Bihar,800001.0,Office Supplies,Fasteners,Stapler Heavy Duty,57.68,1,0.05,13.09,High
+336,IN-2023-10335,22/04/2023,23-04-2023,Same Day,Deepak Joshi,Consumer,Vadodara,Gujarat,390001.0,Technology,Phones,Motorola G84,181824.85,6,0.0,50828.73,Medium
+337,IN-2023-10336,24-07-2023,2023/07/27,Second Class,Anjali Gupta,Home Office,,Punjab,141001.0,Furniture,Tables,Conference Table,11674.78,9,0.1,4522.9,Medium
+338,IN-2022-10337,2022/04/08,2022-04-10,First Class,Vikram Nair,Home Office,Agra,Uttar Pradesh,282001.0,Office Supplies,Paper,Coloured Paper Pack,1665.44,4,0.05,114.39,High
+339,IN-2022-10338,2022-01-20,22/01/2022,First Class,,Corporate,,Maharashtra,422001.0,Office Supplies,Paper,Coloured Paper Pack,1553.73,6,0.1,-85.98,Medium
+340,IN-2022-10339,14/03/2022,16-03-2022,First Class,Rahul Kulkarni,Consumer,Coimbatore,Tamil Nadu,641001.0,Office Supplies,Envelopes,Brown Envelopes,189.01,2,0.0,71.97,High
+341,IN-2022-10340,20-03-2022,2022/03/25,Standard Class,Meera Iyer,Corporate,Mumbai,Maharashtra,400001.0,Office Supplies,Envelopes,Brown Envelopes,675.49,12,0.0,-57.83,Medium
+342,IN-2022-10341,2022/10/28,2022-11-03,Standard Class,Suresh Reddy,Corporate,Delhi,Delhi,110001.0,Technology,Machines,Canon Scanner,124855.21,6,0.05,-15261.19,Low
+343,IN-2022-10342,2022-06-25,26/06/2022,Same Day,Neha Tiwari,Home Office,Bangalore,Karnataka,560001.0,Office Supplies,Envelopes,Padded Envelopes,907.69,10,0.2,-42.03,Medium
+344,IN-2023-10343,28/08/2023,30-08-2023,First Class,Amit Kumar,Consumer,Chennai,Tamil Nadu,600001.0,Furniture,Tables,Study Desk,12282.55,4,0.25,1089.6,Critical
+345,IN-2023-10344,04-01-2023,2023/01/04,Same Day,Sunita Desai,Corporate,Hyderabad,Telangana,500001.0,Furniture,Furnishings,Office Cabinet,10163.11,11,0.0,,High
+346,IN-2022-10345,2022/03/02,2022-03-03,Same Day,Rajesh Shah,Home Office,Pune,Maharashtra,411001.0,Office Supplies,Supplies,Sticky Notes Pack,130.31,1,0.0,-1.8,High
+347,IN-2023-10346,2023-03-19,21/03/2023,First Class,Kavita Mishra,Corporate,Kolkata,West Bengal,700001.0,Office Supplies,Envelopes,Window Envelopes,2161.76,14,0.2,632.96,Critical
+348,IN-2023-10347,22/12/2023,25-12-2023,Second Class,Arun Pandey,Corporate,Ahmedabad,Gujarat,380001.0,Furniture,Tables,Folding Table,1618.46,1,0.3,16.71,Medium
+349,IN-2023-10348,21-03-2023,2023/03/22,Same Day,Rohit Yadav,Consumer,Jaipur,Rajasthan,302001.0,Technology,Machines,HP LaserJet Pro,157041.57,12,0.2,34008.09,High
+350,IN-2023-10349,2023/05/27,2023-05-29,First Class,Divya Nair,Consumer,Lucknow,Uttar Pradesh,226001.0,Office Supplies,Paper,Coloured Paper Pack,2937.29,12,0.15,236.93,Medium
+351,IN-2022-10350,2022-05-01,03/05/2022,First Class,Sanjay Gupta,Corporate,Surat,Gujarat,395001.0,Furniture,Storage,Locker Unit,1802.3,6,,8.24,Medium
+352,IN-2023-10351,19/08/2023,24-08-2023,Standard Class,Rekha Verma,Home Office,Nagpur,Maharashtra,440001.0,Furniture,Storage,Storage Box Set,351.62,1,0.15,117.77,High
+353,IN-2022-10352,02-06-2022,2022/06/05,Second Class,Manoj Tiwari,Consumer,Indore,Madhya Pradesh,452001.0,Furniture,Furnishings,Pedestal Unit,6784.34,8,0.0,1753.02,Critical
+354,IN-2022-10353,2022/08/01,2022-08-01,Same Day,Geeta Sharma,Consumer,Bhopal,Madhya Pradesh,462001.0,Technology,Copiers,Xerox WorkCenter,279374.46,4,0.05,-188.77,Low
+355,IN-2023-10354,2023-02-18,18/02/2023,Same Day,Vinod Patel,Consumer,Patna,Bihar,800001.0,Office Supplies,Envelopes,Brown Envelopes,668.66,6,0.15,224.94,High
+356,IN-2022-10355,04/09/2022,10-09-2022,Standard Class,Anita Desai,Consumer,Vadodara,Gujarat,390001.0,Furniture,Storage,Locker Unit,9877.39,13,0.05,1176.96,Low
+357,IN-2023-10356,14-05-2023,2023/05/17,First Class,Prakash Rao,Home Office,Ludhiana,Punjab,141001.0,Office Supplies,Labels,Address Labels,831.98,14,0.0,-116.04,Critical
+358,IN-2022-10357,2022/05/07,2022-05-09,First Class,Usha Mehta,Consumer,Agra,Uttar Pradesh,282001.0,Office Supplies,Envelopes,Window Envelopes,739.68,9,0.05,-43.04,Medium
+359,IN-2022-10358,2022-06-24,28/06/2022,Second Class,Sunil Joshi,Consumer,Nashik,Maharashtra,422001.0,Office Supplies,Envelopes,Padded Envelopes,990.7,9,0.05,146.13,Critical
+360,IN-2022-10359,02/09/2022,03-09-2022,Same Day,Leela Iyer,Consumer,Coimbatore,Tamil Nadu,641001.0,Office Supplies,Envelopes,Padded Envelopes,833.15,6,0.0,308.11,Low
+361,IN-2022-10360,13-04-2022,2022/04/16,Second Class,Ravi Sharma,Home Office,,Maharashtra,400001.0,Office Supplies,Paper,A4 Paper Ream 500,1616.7,7,0.15,361.16,Low
+362,IN-2023-10361,2023/01/15,2023-01-16,Same Day,Priya Patel,Corporate,,Delhi,110001.0,Office Supplies,Envelopes,Padded Envelopes,1230.5,11,,,Medium
+363,IN-2022-10362,2022-07-18,22/07/2022,Second Class,Arjun Singh,Consumer,Bangalore,Karnataka,560001.0,Office Supplies,Binders,A4 Binder Pack,3069.23,9,0.0,-245.35,Low
+364,IN-2023-10363,19/01/2023,23-01-2023,Second Class,Sneha Mehta,Corporate,Chennai,Tamil Nadu,600001.0,Technology,Phones,Samsung Galaxy Tab,30953.64,3,0.05,6384.99,High
+365,IN-2022-10364,23-03-2022,2022/03/29,Standard Class,Kiran Rao,Consumer,Hyderabad,Telangana,500001.0,Furniture,Furnishings,Pedestal Unit,7335.17,9,0.2,1100.8,Low
+366,IN-2022-10365,2022/02/09,2022-02-12,Second Class,Deepak Joshi,Corporate,Pune,Maharashtra,411001.0,Technology,Copiers,Xerox WorkCenter,324830.98,11,0.05,-36218.03,Critical
+367,IN-2022-10366,2022-09-13,16/09/2022,Second Class,Anjali Gupta,Corporate,Kolkata,West Bengal,700001.0,Office Supplies,Labels,Colour Dot Labels,598.46,10,0.25,35.05,Medium
+368,IN-2023-10367,03/01/2023,06-01-2023,Second Class,Vikram Nair,Consumer,Ahmedabad,Gujarat,380001.0,Office Supplies,Paper,A4 Paper Ream 500,4049.17,8,0.0,1099.69,Medium
+369,IN-2022-10368,22-09-2022,2022/09/24,First Class,Pooja Verma,Consumer,Jaipur,Rajasthan,302001.0,Office Supplies,Labels,Mailing Labels,309.11,3,0.1,79.82,Critical
+370,IN-2023-10369,2023/07/28,2023-08-03,Standard Class,,Home Office,Lucknow,Uttar Pradesh,226001.0,Office Supplies,Binders,Ring Binder,565.98,3,0.15,180.5,Medium
+371,IN-2023-10370,2023-12-17,21/12/2023,Second Class,Meera Iyer,Consumer,Surat,Gujarat,395001.0,Office Supplies,Envelopes,Window Envelopes,1125.96,8,0.0,202.53,Medium
+372,IN-2023-10371,04/01/2023,08-01-2023,Second Class,Suresh Reddy,Corporate,Nagpur,Maharashtra,440001.0,Furniture,Chairs,Mesh Task Chair,1429.67,2,0.05,,Critical
+373,IN-2023-10372,13-01-2023,2023/01/14,Same Day,Neha Tiwari,Corporate,Indore,Madhya Pradesh,452001.0,Office Supplies,Envelopes,Window Envelopes,420.77,3,0.05,-0.74,Low
+374,IN-2022-10373,2022/12/06,2022-12-09,First Class,Amit Kumar,Consumer,,Madhya Pradesh,462001.0,Office Supplies,Fasteners,Binder Clips Set,587.5,7,0.2,61.0,Medium
+375,IN-2023-10374,2023-06-01,04/06/2023,First Class,Sunita Desai,Corporate,Patna,Bihar,800001.0,Office Supplies,Labels,Mailing Labels,350.17,5,0.0,116.8,High
+376,IN-2022-10375,18/03/2022,21-03-2022,First Class,Rajesh Shah,Consumer,Vadodara,Gujarat,390001.0,Office Supplies,Fasteners,Paper Clips Box,382.29,8,0.1,97.46,Critical
+377,IN-2022-10376,01-04-2022,2022/04/04,First Class,Kavita Mishra,Consumer,Ludhiana,Punjab,141001.0,Office Supplies,Binders,Lever Arch Files,1601.07,13,0.0,639.45,Low
+378,IN-2023-10377,2023/05/23,2023-05-29,Standard Class,Arun Pandey,Corporate,Agra,Uttar Pradesh,282001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,13896.66,13,0.3,4730.99,High
+379,IN-2022-10378,2022-07-27,29/07/2022,First Class,Rohit Yadav,Consumer,Nashik,Maharashtra,422001.0,Furniture,Tables,Conference Table,4928.57,4,0.2,940.07,High
+380,IN-2022-10379,03/10/2022,06-10-2022,First Class,Divya Nair,Home Office,Coimbatore,Tamil Nadu,641001.0,Office Supplies,Binders,A4 Binder Pack,3820.07,13,0.05,913.26,Low
+381,IN-2023-10380,16-07-2023,2023/07/22,Standard Class,Sanjay Gupta,Corporate,Mumbai,Maharashtra,400001.0,Technology,Accessories,Wireless Mouse,10281.69,7,0.1,1111.52,Critical
+382,IN-2023-10381,2023/12/23,2023-12-26,First Class,Rekha Verma,Home Office,Delhi,Delhi,110001.0,Office Supplies,Fasteners,Paper Clips Box,501.5,14,0.1,110.9,Medium
+383,IN-2022-10382,2022-03-05,08/03/2022,Second Class,Manoj Tiwari,Home Office,Bangalore,Karnataka,560001.0,Furniture,Storage,Locker Unit,4686.35,9,0.3,-523.04,High
+384,IN-2023-10383,10/03/2023,14-03-2023,Second Class,Geeta Sharma,Corporate,Chennai,Tamil Nadu,600001.0,Furniture,Furnishings,Filing Cabinet,4707.47,6,0.1,1750.28,Critical
+385,IN-2023-10384,14-03-2023,2023/03/18,Second Class,Vinod Patel,Consumer,Hyderabad,Telangana,500001.0,Furniture,Furnishings,Filing Cabinet,4373.38,4,0.1,519.0,Low
+386,IN-2023-10385,2023/09/20,2023-09-20,Same Day,Anita Desai,Corporate,Pune,Maharashtra,411001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,3452.55,4,,-357.3,Critical
+387,IN-2023-10386,2023-05-26,26/05/2023,Same Day,Prakash Rao,Home Office,Kolkata,West Bengal,700001.0,Office Supplies,Supplies,Correction Fluid,3029.36,11,0.0,774.26,Critical
+388,IN-2023-10387,15/01/2023,18-01-2023,Second Class,Usha Mehta,Home Office,Ahmedabad,Gujarat,380001.0,Furniture,Tables,Conference Table,19048.94,7,0.25,5271.82,Critical
+389,IN-2023-10388,24-07-2023,2023/07/27,First Class,Sunil Joshi,Consumer,Jaipur,Rajasthan,302001.0,Office Supplies,Binders,Lever Arch Files,2364.19,14,0.1,671.84,Critical
+390,IN-2023-10389,2023/08/07,2023-08-13,Standard Class,Leela Iyer,Consumer,Lucknow,Uttar Pradesh,226001.0,Furniture,Tables,Executive Desk,10722.4,4,0.1,4202.29,Critical
+391,IN-2023-10390,2023-02-24,24/02/2023,Same Day,Ravi Sharma,Consumer,Surat,Gujarat,395001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,10516.53,8,0.0,3203.76,Low
+392,IN-2023-10391,16/04/2023,19-04-2023,First Class,Priya Patel,Consumer,Nagpur,Maharashtra,440001.0,Technology,Accessories,Wireless Mouse,3298.45,4,0.05,1073.85,Critical
+393,IN-2022-10392,21-12-2022,2022/12/25,Second Class,Arjun Singh,Consumer,Indore,Madhya Pradesh,452001.0,Furniture,Furnishings,Filing Cabinet,5965.26,14,0.1,,Critical
+394,IN-2022-10393,2022/08/14,2022-08-19,Standard Class,Sneha Mehta,Consumer,Bhopal,Madhya Pradesh,462001.0,Office Supplies,Binders,A4 Binder Pack,2465.44,7,0.05,599.97,Critical
+395,IN-2023-10394,2023-11-10,12/11/2023,First Class,Kiran Rao,Consumer,Patna,Bihar,800001.0,Furniture,Tables,Study Desk,40294.82,12,0.2,911.93,High
+396,IN-2022-10395,07/02/2022,07-02-2022,Same Day,Deepak Joshi,Home Office,Vadodara,Gujarat,390001.0,Technology,Copiers,Ricoh Copier,649823.43,11,0.1,137002.44,Critical
+397,IN-2022-10396,17-08-2022,2022/08/18,Same Day,Anjali Gupta,Corporate,Ludhiana,Punjab,141001.0,Furniture,Tables,Executive Desk,26032.82,7,0.05,3452.42,Low
+398,IN-2023-10397,2023/05/01,2023-05-01,Same Day,Vikram Nair,Corporate,Agra,Uttar Pradesh,282001.0,Office Supplies,Paper,Coloured Paper Pack,1804.17,6,0.1,98.68,High
+399,IN-2023-10398,2023-12-13,18/12/2023,Standard Class,Pooja Verma,Corporate,Nashik,Maharashtra,422001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,2963.83,3,0.2,21.16,Medium
+400,IN-2023-10399,03/12/2023,09-12-2023,Standard Class,Rahul Kulkarni,Corporate,Coimbatore,Tamil Nadu,,Furniture,Bookcases,Metal Bookcase 3-Shelf,7897.37,3,0.05,1983.86,High
+401,IN-2023-10400,18-09-2023,2023/09/20,First Class,Meera Iyer,Corporate,Mumbai,Maharashtra,400001.0,Furniture,Storage,Document Tray,1839.05,4,,-275.2,Medium
+402,IN-2022-10401,2022/04/19,2022-04-19,Same Day,Suresh Reddy,Corporate,Delhi,Delhi,110001.0,Technology,Accessories,Webcam HD,1528.03,1,0.0,17.84,Medium
+403,IN-2022-10402,2022-01-02,08/01/2022,Standard Class,Neha Tiwari,Consumer,Bangalore,Karnataka,560001.0,Furniture,Tables,Study Desk,38761.94,11,0.0,10655.04,Critical
+404,IN-2023-10403,23/10/2023,29-10-2023,Standard Class,Amit Kumar,Consumer,Chennai,Tamil Nadu,600001.0,Office Supplies,Supplies,Correction Fluid,271.9,2,0.2,-15.26,Medium
+405,IN-2023-10404,21-02-2023,2023/02/21,Same Day,Sunita Desai,Consumer,Hyderabad,Telangana,500001.0,Office Supplies,Labels,Colour Dot Labels,708.23,9,0.15,-58.17,Critical
+406,IN-2022-10405,2022/08/25,2022-08-26,Same Day,Rajesh Shah,Consumer,Pune,Maharashtra,411001.0,Technology,Phones,Motorola G84,92552.46,3,0.0,3221.18,Low
+407,IN-2023-10406,2023-11-14,16/11/2023,First Class,Kavita Mishra,Home Office,Kolkata,West Bengal,700001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,15938.53,12,0.2,1046.39,High
+408,IN-2023-10407,08/05/2023,12-05-2023,Second Class,Arun Pandey,Corporate,Ahmedabad,Gujarat,380001.0,Furniture,Storage,Storage Box Set,3304.68,5,0.25,169.32,Low
+409,IN-2023-10408,30-10-2023,2023/11/01,First Class,Rohit Yadav,Consumer,Jaipur,Rajasthan,302001.0,Furniture,Chairs,Recliner Chair,3170.76,3,0.0,1201.15,Critical
+410,IN-2022-10409,2022/10/26,2022-10-30,Second Class,Divya Nair,Corporate,Lucknow,Uttar Pradesh,,Office Supplies,Fasteners,Binder Clips Set,577.17,6,0.2,148.04,Low
+411,IN-2023-10410,2023-11-27,29/11/2023,First Class,Sanjay Gupta,Home Office,Surat,Gujarat,395001.0,Furniture,Chairs,Ergonomic Chair Pro,4078.68,4,0.3,87.83,Medium
+412,IN-2022-10411,17/05/2022,17-05-2022,Same Day,Rekha Verma,Home Office,Nagpur,Maharashtra,440001.0,Furniture,Chairs,Recliner Chair,9432.99,12,0.05,3402.92,High
+413,IN-2022-10412,14-03-2022,2022/03/18,Second Class,Manoj Tiwari,Consumer,Indore,Madhya Pradesh,452001.0,Office Supplies,Supplies,Rubber Band Box,2111.74,13,0.1,-30.28,Medium
+414,IN-2023-10413,2023/04/05,2023-04-07,First Class,Geeta Sharma,Corporate,Bhopal,Madhya Pradesh,462001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,17718.09,8,,-2115.84,High
+415,IN-2022-10414,2022-05-09,12/05/2022,First Class,Vinod Patel,Corporate,Patna,Bihar,800001.0,Office Supplies,Paper,Tracing Paper,1040.41,2,,23.55,Critical
+416,IN-2022-10415,21/10/2022,26-10-2022,Standard Class,Anita Desai,Consumer,Vadodara,Gujarat,390001.0,Furniture,Tables,Conference Table,32452.47,9,0.2,-1773.89,Low
+417,IN-2022-10416,22-04-2022,2022/04/26,Second Class,Prakash Rao,Consumer,Ludhiana,Punjab,141001.0,Furniture,Furnishings,Pedestal Unit,11579.58,14,0.1,747.65,Low
+418,IN-2022-10417,2022/05/18,2022-05-18,Same Day,Usha Mehta,Corporate,Agra,Uttar Pradesh,282001.0,Office Supplies,Paper,A4 Paper Ream 500,7359.45,12,0.1,1728.22,Medium
+419,IN-2022-10418,2022-07-16,18/07/2022,First Class,Sunil Joshi,Home Office,Nashik,Maharashtra,422001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,5266.36,5,0.0,257.25,Low
+420,IN-2023-10419,21/03/2023,26-03-2023,Standard Class,Leela Iyer,Home Office,Coimbatore,Tamil Nadu,641001.0,Technology,Copiers,Canon IR Series,1262373.46,14,0.0,416848.17,High
+421,IN-2023-10420,11-08-2023,2023/08/11,Same Day,Ravi Sharma,Home Office,Mumbai,Maharashtra,400001.0,Technology,Phones,OnePlus Nord,210361.49,10,0.05,-25728.84,Low
+422,IN-2023-10421,2023/11/09,2023-11-14,Standard Class,Priya Patel,Consumer,Delhi,Delhi,110001.0,Furniture,Chairs,Ergonomic Chair Pro,11899.8,9,0.05,3605.09,Medium
+423,IN-2023-10422,2023-03-05,06/03/2023,Same Day,Arjun Singh,Consumer,Bangalore,Karnataka,560001.0,Office Supplies,Supplies,Correction Fluid,204.38,1,0.0,63.16,Medium
+424,IN-2022-10423,01/03/2022,02-03-2022,Same Day,Sneha Mehta,Corporate,,Tamil Nadu,600001.0,Furniture,Storage,Locker Unit,,6,0.15,7.04,High
+425,IN-2022-10424,26-05-2022,2022/05/29,First Class,Kiran Rao,Corporate,Hyderabad,Telangana,500001.0,Furniture,Chairs,Mesh Task Chair,18139.65,10,0.05,-229.02,Critical
+426,IN-2022-10425,2022/12/03,2022-12-03,Same Day,Deepak Joshi,Corporate,Pune,Maharashtra,411001.0,Office Supplies,Art,Drawing Kit,1964.4,12,0.1,719.29,High
+427,IN-2022-10426,2022-05-21,22/05/2022,Same Day,Anjali Gupta,Consumer,Kolkata,West Bengal,700001.0,Office Supplies,Paper,A4 Paper Ream 500,5351.67,13,0.0,-491.12,Critical
+428,IN-2023-10427,05/03/2023,09-03-2023,Second Class,Vikram Nair,Corporate,Ahmedabad,Gujarat,380001.0,Office Supplies,Supplies,Sticky Notes Pack,1725.7,14,0.0,526.37,Critical
+429,IN-2023-10428,06-08-2023,2023/08/09,First Class,Pooja Verma,Consumer,Jaipur,Rajasthan,302001.0,Technology,Machines,Brother Printer,64101.26,6,0.3,-366.11,Low
+430,IN-2023-10429,2023/02/27,2023-03-05,Standard Class,Rahul Kulkarni,Consumer,Lucknow,Uttar Pradesh,226001.0,Office Supplies,Art,Watercolour Set,,3,0.05,-62.24,Low
+431,IN-2022-10430,2022-01-06,07/01/2022,Same Day,Meera Iyer,Consumer,Surat,Gujarat,395001.0,Technology,Machines,HP LaserJet Pro,224788.54,14,0.2,,Low
+432,IN-2022-10431,16/04/2022,18-04-2022,First Class,Suresh Reddy,Consumer,Nagpur,Maharashtra,440001.0,Furniture,Tables,Executive Desk,20334.94,9,0.1,586.99,High
+433,IN-2022-10432,12-07-2022,2022/07/15,First Class,Neha Tiwari,Corporate,Indore,Madhya Pradesh,452001.0,Office Supplies,Supplies,Correction Fluid,932.77,9,0.2,280.98,Medium
+434,IN-2022-10433,2022/04/23,2022-04-28,Standard Class,Amit Kumar,Consumer,Bhopal,Madhya Pradesh,462001.0,Office Supplies,Art,Drawing Kit,1343.49,10,0.1,,Medium
+435,IN-2022-10434,2022-08-25,26/08/2022,Same Day,Sunita Desai,Home Office,Patna,Bihar,800001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,6766.14,5,0.1,537.61,Medium
+436,IN-2022-10435,21/12/2022,27-12-2022,Standard Class,Rajesh Shah,Consumer,Vadodara,Gujarat,390001.0,Technology,Accessories,Wireless Mouse,14949.31,9,,4376.11,Medium
+437,IN-2023-10436,30-07-2023,2023/07/31,Same Day,Kavita Mishra,Consumer,Ludhiana,Punjab,141001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,9252.2,5,0.3,-698.52,Medium
+438,IN-2023-10437,2023/10/18,2023-10-21,First Class,Arun Pandey,Home Office,Agra,Uttar Pradesh,282001.0,Office Supplies,Fasteners,Stapler Heavy Duty,800.8,11,0.0,257.76,Medium
+439,IN-2022-10438,2022-10-10,12/10/2022,First Class,Rohit Yadav,Corporate,Nashik,Maharashtra,422001.0,Furniture,Tables,Executive Desk,23785.98,12,0.3,3551.47,High
+440,IN-2022-10439,04/03/2022,06-03-2022,First Class,Divya Nair,Consumer,Coimbatore,Tamil Nadu,641001.0,Technology,Machines,Brother Printer,176400.97,14,0.0,13366.38,Low
+441,IN-2023-10440,04-02-2023,2023/02/08,Second Class,,Consumer,,Maharashtra,400001.0,Furniture,Storage,Document Tray,2295.36,4,0.05,754.89,High
+442,IN-2023-10441,2023/04/06,2023-04-07,Same Day,Rekha Verma,Corporate,Delhi,Delhi,110001.0,Furniture,Furnishings,Office Cabinet,4521.49,5,0.1,1047.15,High
+443,IN-2022-10442,2022-05-26,26/05/2022,Same Day,Manoj Tiwari,Consumer,Bangalore,Karnataka,560001.0,Furniture,Furnishings,Office Cabinet,3839.96,4,0.05,285.09,Critical
+444,IN-2023-10443,02/01/2023,06-01-2023,Second Class,,Home Office,Chennai,Tamil Nadu,600001.0,Office Supplies,Envelopes,Brown Envelopes,150.94,2,0.1,-1.07,Critical
+445,IN-2023-10444,30-09-2023,2023/10/05,Standard Class,Vinod Patel,Consumer,Hyderabad,Telangana,500001.0,Furniture,Furnishings,Pedestal Unit,3863.67,9,0.1,-355.17,Critical
+446,IN-2023-10445,2023/04/23,2023-04-25,First Class,Anita Desai,Consumer,Pune,Maharashtra,411001.0,Office Supplies,Art,Sketch Pad A3,6465.28,13,0.0,2544.94,Medium
+447,IN-2022-10446,2022-07-13,17/07/2022,Second Class,Prakash Rao,Corporate,Kolkata,West Bengal,700001.0,Office Supplies,Art,Drawing Kit,1261.39,3,0.15,112.14,Medium
+448,IN-2022-10447,23/11/2022,29-11-2022,Standard Class,Usha Mehta,Corporate,Ahmedabad,Gujarat,380001.0,Office Supplies,Fasteners,Stapler Heavy Duty,368.33,5,0.0,-29.08,Critical
+449,IN-2023-10448,21-01-2023,2023/01/25,Second Class,,Corporate,Jaipur,Rajasthan,302001.0,Furniture,Chairs,Ergonomic Chair Pro,21872.69,11,0.0,-750.78,High
+450,IN-2022-10449,2022/07/01,2022-07-04,First Class,Leela Iyer,Home Office,Lucknow,Uttar Pradesh,,Furniture,Tables,Study Desk,9720.35,8,0.3,-735.89,Medium
+451,IN-2022-10450,2022-12-27,28/12/2022,Same Day,Ravi Sharma,Corporate,Surat,Gujarat,,Furniture,Furnishings,Filing Cabinet,12500.68,12,0.0,2885.09,Low
+452,IN-2023-10451,19/04/2023,22-04-2023,Second Class,Priya Patel,Consumer,Nagpur,Maharashtra,440001.0,Furniture,Storage,Document Tray,8024.41,9,0.0,2036.46,Critical
+453,IN-2023-10452,01-08-2023,2023/08/03,First Class,Arjun Singh,Home Office,Indore,Madhya Pradesh,452001.0,Furniture,Furnishings,Filing Cabinet,6555.31,9,0.2,2052.52,Critical
+454,IN-2022-10453,2022/06/05,2022-06-06,Same Day,Sneha Mehta,Corporate,Bhopal,Madhya Pradesh,462001.0,Office Supplies,Fasteners,Stapler Heavy Duty,132.64,2,,-16.22,Low
+455,IN-2022-10454,2022-05-30,03/06/2022,Second Class,Kiran Rao,Corporate,Patna,Bihar,800001.0,Office Supplies,Paper,Coloured Paper Pack,9289.04,14,0.0,2694.88,Critical
+456,IN-2023-10455,14/06/2023,15-06-2023,Same Day,,Home Office,Vadodara,Gujarat,390001.0,Technology,Accessories,Wireless Mouse,23077.13,13,0.15,5123.09,Critical
+457,IN-2023-10456,19-12-2023,2023/12/22,First Class,Anjali Gupta,Consumer,Ludhiana,Punjab,141001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,29641.01,11,0.05,-2363.1,High
+458,IN-2023-10457,2023/05/10,2023-05-16,Standard Class,Vikram Nair,Corporate,Agra,Uttar Pradesh,282001.0,Technology,Machines,Epson Printer,205438.84,13,0.0,-20147.31,Medium
+459,IN-2022-10458,2022-12-21,26/12/2022,Standard Class,Pooja Verma,Corporate,,Maharashtra,422001.0,Furniture,Furnishings,Pedestal Unit,,8,0.0,1658.42,High
+460,IN-2023-10459,23/05/2023,28-05-2023,Standard Class,Rahul Kulkarni,Corporate,Coimbatore,Tamil Nadu,641001.0,Furniture,Storage,Locker Unit,2474.41,4,0.1,-255.41,High
+461,IN-2023-10460,12-06-2023,2023/06/15,Second Class,Meera Iyer,Consumer,Mumbai,Maharashtra,400001.0,Furniture,Furnishings,Pedestal Unit,8444.98,11,0.3,613.1,Medium
+462,IN-2022-10461,2022/01/29,2022-02-02,Second Class,Suresh Reddy,Home Office,Delhi,Delhi,110001.0,Office Supplies,Supplies,Rubber Band Box,712.69,5,0.05,156.71,Critical
+463,IN-2022-10462,2022-08-31,03/09/2022,First Class,Neha Tiwari,Consumer,Bangalore,Karnataka,560001.0,Office Supplies,Envelopes,Padded Envelopes,724.85,11,0.1,-6.37,Critical
+464,IN-2022-10463,12/02/2022,17-02-2022,Standard Class,Amit Kumar,Home Office,Chennai,Tamil Nadu,600001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,11641.37,13,0.0,1090.43,Low
+465,IN-2023-10464,05-07-2023,2023/07/05,Same Day,,Consumer,,Telangana,500001.0,Office Supplies,Paper,Tracing Paper,,10,0.0,1017.66,High
+466,IN-2023-10465,2023/01/04,2023-01-07,First Class,Rajesh Shah,Corporate,Pune,Maharashtra,411001.0,Office Supplies,Fasteners,Stapler Heavy Duty,462.07,10,0.25,63.66,Critical
+467,IN-2023-10466,2023-10-28,03/11/2023,Standard Class,Kavita Mishra,Consumer,Kolkata,West Bengal,700001.0,Technology,Copiers,Canon IR Series,306188.66,4,0.05,62012.71,Critical
+468,IN-2023-10467,20/07/2023,25-07-2023,Standard Class,Arun Pandey,Corporate,Ahmedabad,Gujarat,380001.0,Office Supplies,Art,Watercolour Set,4238.43,14,0.25,1637.51,Medium
+469,IN-2023-10468,13-05-2023,2023/05/19,Standard Class,Rohit Yadav,Home Office,Jaipur,Rajasthan,302001.0,Office Supplies,Binders,Ring Binder,2499.8,14,0.05,381.87,High
+470,IN-2022-10469,2022/09/30,2022-10-03,Second Class,Divya Nair,Corporate,Lucknow,Uttar Pradesh,226001.0,Furniture,Chairs,Mesh Task Chair,12268.62,13,0.1,-747.68,Critical
+471,IN-2023-10470,2023-07-30,02/08/2023,First Class,Sanjay Gupta,Consumer,Surat,Gujarat,395001.0,Office Supplies,Art,Watercolour Set,6091.11,14,0.05,383.75,Low
+472,IN-2023-10471,26/01/2023,30-01-2023,Second Class,Rekha Verma,Corporate,Nagpur,Maharashtra,440001.0,Furniture,Chairs,Mesh Task Chair,7321.69,7,0.3,-488.45,Low
+473,IN-2023-10472,17-05-2023,2023/05/18,Same Day,Manoj Tiwari,Corporate,Indore,Madhya Pradesh,452001.0,Office Supplies,Labels,Mailing Labels,50.62,1,0.15,-6.53,High
+474,IN-2023-10473,2023/09/27,2023-09-30,Second Class,Geeta Sharma,Consumer,Bhopal,Madhya Pradesh,462001.0,Furniture,Tables,Conference Table,42942.6,13,0.05,12524.49,Critical
+475,IN-2023-10474,2023-02-25,27/02/2023,First Class,Vinod Patel,Corporate,Patna,Bihar,800001.0,Technology,Accessories,Webcam HD,22178.95,12,0.1,7285.03,Critical
+476,IN-2023-10475,14/06/2023,18-06-2023,Second Class,Anita Desai,Corporate,Vadodara,Gujarat,390001.0,Furniture,Chairs,Gaming Chair,8510.91,14,0.1,1672.83,Critical
+477,IN-2023-10476,26-10-2023,2023/10/27,Same Day,Prakash Rao,Consumer,Ludhiana,Punjab,141001.0,Technology,Phones,OnePlus Nord,353107.76,10,,23578.71,Critical
+478,IN-2022-10477,2022/06/04,2022-06-07,Second Class,Usha Mehta,Consumer,Agra,Uttar Pradesh,282001.0,Office Supplies,Fasteners,Paper Clips Box,1203.33,14,0.1,355.37,Medium
+479,IN-2022-10478,2022-10-01,06/10/2022,Standard Class,,Home Office,Nashik,Maharashtra,422001.0,Furniture,Storage,Storage Box Set,3920.52,11,0.05,800.48,Critical
+480,IN-2023-10479,23/12/2023,24-12-2023,Same Day,Leela Iyer,Consumer,,Tamil Nadu,,Office Supplies,Fasteners,Paper Clips Box,748.32,10,,225.44,High
+481,IN-2022-10480,24-05-2022,2022/05/29,Standard Class,,Consumer,Mumbai,Maharashtra,400001.0,Technology,Accessories,Wireless Mouse,23169.38,12,0.1,2200.22,High
+482,IN-2022-10481,2022/07/16,2022-07-22,Standard Class,Priya Patel,Corporate,Delhi,Delhi,110001.0,Office Supplies,Labels,Colour Dot Labels,655.62,7,0.0,197.2,High
+483,IN-2022-10482,2022-12-14,16/12/2022,First Class,Arjun Singh,Consumer,Bangalore,Karnataka,560001.0,Technology,Machines,Brother Printer,96237.7,10,0.05,-5788.53,Medium
+484,IN-2023-10483,22/11/2023,24-11-2023,First Class,Sneha Mehta,Consumer,Chennai,Tamil Nadu,600001.0,Furniture,Storage,Storage Box Set,2748.5,3,0.0,-118.76,Critical
+485,IN-2023-10484,06-09-2023,2023/09/09,First Class,Kiran Rao,Consumer,Hyderabad,Telangana,500001.0,Office Supplies,Art,Drawing Kit,2147.26,9,0.3,,High
+486,IN-2022-10485,2022/01/12,2022-01-17,Standard Class,Deepak Joshi,Consumer,Pune,Maharashtra,411001.0,Office Supplies,Art,Watercolour Set,3844.4,10,0.2,50.5,Medium
+487,IN-2022-10486,2022-07-09,14/07/2022,Standard Class,Anjali Gupta,Consumer,Kolkata,West Bengal,700001.0,Furniture,Chairs,Gaming Chair,4935.11,9,0.15,1237.89,Medium
+488,IN-2023-10487,13/04/2023,19-04-2023,Standard Class,Vikram Nair,Consumer,Ahmedabad,Gujarat,380001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,8205.42,9,0.05,2226.0,Critical
+489,IN-2023-10488,05-03-2023,2023/03/07,First Class,Pooja Verma,Consumer,Jaipur,Rajasthan,302001.0,Furniture,Tables,Executive Desk,,3,0.1,5007.61,Medium
+490,IN-2023-10489,2023/05/10,2023-05-12,First Class,Rahul Kulkarni,Consumer,Lucknow,Uttar Pradesh,226001.0,Furniture,Tables,Study Desk,6910.5,2,0.1,769.13,Critical
+491,IN-2023-10490,2023-12-29,03/01/2024,Standard Class,,Consumer,Surat,Gujarat,395001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,3931.67,3,0.15,1489.67,Critical
+492,IN-2023-10491,30/11/2023,30-11-2023,Same Day,Suresh Reddy,Corporate,Nagpur,Maharashtra,440001.0,Office Supplies,Fasteners,Stapler Heavy Duty,812.62,8,0.05,204.76,Critical
+493,IN-2022-10492,21-10-2022,2022/10/21,Same Day,,Home Office,Indore,Madhya Pradesh,452001.0,Technology,Phones,iPhone 14,29075.45,1,0.2,,Critical
+494,IN-2022-10493,2022/03/26,2022-03-29,Second Class,Amit Kumar,Corporate,Bhopal,Madhya Pradesh,,Office Supplies,Fasteners,Stapler Heavy Duty,1493.61,12,0.0,375.79,Low
+495,IN-2023-10494,2023-04-08,11/04/2023,Second Class,Sunita Desai,Consumer,Patna,Bihar,800001.0,Office Supplies,Envelopes,Brown Envelopes,1553.35,11,0.1,568.94,High
+496,IN-2022-10495,19/02/2022,23-02-2022,Second Class,Rajesh Shah,Corporate,Vadodara,Gujarat,390001.0,Furniture,Bookcases,Wooden Bookcase 5-Shelf,13197.08,12,0.15,,High
+497,IN-2022-10496,26-06-2022,2022/07/01,Standard Class,Kavita Mishra,Corporate,Ludhiana,Punjab,,Furniture,Chairs,Ergonomic Chair Pro,15000.19,13,0.0,1983.72,Low
+498,IN-2022-10497,2022/09/06,2022-09-09,Second Class,Arun Pandey,Consumer,Agra,Uttar Pradesh,,Technology,Copiers,Xerox WorkCenter,,12,0.0,-114203.89,High
+499,IN-2022-10498,2022-08-29,02/09/2022,Second Class,Rohit Yadav,Corporate,Nashik,Maharashtra,422001.0,Furniture,Tables,Executive Desk,5475.26,3,0.1,-545.98,Critical
+500,IN-2022-10499,09/08/2022,12-08-2022,Second Class,Divya Nair,Consumer,Coimbatore,Tamil Nadu,641001.0,Office Supplies,Fasteners,Paper Clips Box,215.27,4,0.1,-17.88,Low
+284,IN-2023-10283,15/01/2023,19-01-2023,Second Class,Amit Kumar,Home Office,Chennai,Tamil Nadu,600001.0,Furniture,Storage,Locker Unit,8467.73,11,0.15,-744.21,Medium
+444,IN-2023-10443,02/01/2023,06-01-2023,Second Class,,Home Office,Chennai,Tamil Nadu,600001.0,Office Supplies,Envelopes,Brown Envelopes,150.94,2,0.1,-1.07,Critical
+5,IN-2022-10004,04-02-2022,2022/02/05,Same Day,Kiran Rao,Home Office,Hyderabad,Telangana,500001.0,Furniture,Storage,Document Tray,1542.03,4,0.15,286.04,High
+291,IN-2022-10290,2022-07-17,20/07/2022,First Class,Sanjay Gupta,Consumer,Surat,Gujarat,395001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,,12,0.25,6884.73,Low
+112,IN-2023-10111,11/04/2023,11-04-2023,Same Day,Rekha Verma,Corporate,Nagpur,Maharashtra,440001.0,Furniture,Bookcases,Metal Bookcase 3-Shelf,10537.95,5,0.15,2112.62,Low
+6,IN-2023-10005,2023/12/31,2024-01-03,First Class,Deepak Joshi,Consumer,Pune,Maharashtra,411001.0,Furniture,Furnishings,Filing Cabinet,10307.57,14,0.1,-498.17,Medium
+305,IN-2022-10304,09-03-2022,2022/03/09,Same Day,Kiran Rao,Consumer,Hyderabad,Telangana,500001.0,Furniture,Tables,Conference Table,25345.29,10,0.0,,Critical
+304,IN-2023-10303,25/07/2023,31-07-2023,Standard Class,Sneha Mehta,Home Office,Chennai,Tamil Nadu,600001.0,Technology,Phones,Motorola G84,70562.86,4,0.3,-7650.23,Low
+181,IN-2023-10180,19-10-2023,2023/10/20,Same Day,Ravi Sharma,Home Office,Mumbai,Maharashtra,400001.0,Office Supplies,Supplies,Correction Fluid,1398.17,7,0.0,136.61,Critical
+27,IN-2023-10026,2023-06-02,05/06/2023,Second Class,Prakash Rao,Consumer,Kolkata,West Bengal,700001.0,Office Supplies,Labels,Colour Dot Labels,32.7,1,0.3,3.55,Low
+348,IN-2023-10347,22/12/2023,25-12-2023,Second Class,Arun Pandey,Corporate,Ahmedabad,Gujarat,380001.0,Furniture,Tables,Folding Table,1618.46,1,0.3,16.71,Medium
+474,IN-2023-10473,2023/09/27,2023-09-30,Second Class,Geeta Sharma,Consumer,Bhopal,Madhya Pradesh,462001.0,Furniture,Tables,Conference Table,42942.6,13,0.05,12524.49,Critical
+140,IN-2023-10139,27/12/2023,28-12-2023,Same Day,Divya Nair,Consumer,Coimbatore,Tamil Nadu,641001.0,Furniture,Chairs,Mesh Task Chair,,12,0.1,-256.88,High
+403,IN-2022-10402,2022-01-02,08/01/2022,Standard Class,Neha Tiwari,Consumer,Bangalore,Karnataka,560001.0,Furniture,Tables,Study Desk,38761.94,11,0.0,10655.04,Critical
+67,IN-2023-10066,2023-04-11,17/04/2023,Standard Class,Anjali Gupta,Consumer,Kolkata,West Bengal,700001.0,Technology,Machines,Brother Printer,344204.45,13,0.1,-9253.25,Low
